@@ -364,7 +364,8 @@ handleRequestError = (err, httpResponse) ->
     gutil.log('err: ', err)
     gutil.log('status code: ', httpResponse.statusCode)
 
-LOGIN_URL = 'http://igem.org/Login'
+LOGIN_URL = 'https://igem.org/Login2'
+# TODO switch to new logout url
 LOGOUT_URL = 'http://igem.org/cgi/Logout.cgi'
 # Login and call the callback with the cookie jar
 login = (cb) ->
@@ -376,15 +377,10 @@ login = (cb) ->
         url: LOGIN_URL,
         method: 'POST'
         form: {
-            id              : '0'
-            new_user_center : ''
-            new_user_right  : ''
-            hidden_new_user : ''
             return_to       : ''
             username        : username
             password        : password
-            Login           : 'Log+in'
-            search_text     : ''
+            Login           : 'Login'
         },
         jar: jar
     }, (err, httpResponse, body) ->
