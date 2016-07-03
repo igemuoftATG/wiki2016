@@ -1,16 +1,8 @@
-{{Toronto}}
-
-<div class="column full_size judges-will-not-evaluate">
-
 ### ★ ALERT!
 
 This page is used by the judges to evaluate your team for the [Best Model award](http://2016.igem.org/Judging/Awards#SpecialPrizes).
 
 Delete this box in order to be evaluated for this medal. See more information at [Instructions for Pages for awards](http://2016.igem.org/Judging/Pages_for_Awards/Instructions).
-
-</div>
-
-<div class="column full_size">
 
 ## Modeling
 
@@ -23,4 +15,3 @@ Here are a few examples from previous teams:
 *   [ETH Zurich 2014](http://2014.igem.org/Team:ETH_Zurich/modeling/overview)
 *   [Waterloo 2014](http://2014.igem.org/Team:Waterloo/Math_Book)
 
-</div>

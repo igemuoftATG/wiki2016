@@ -1,16 +1,8 @@
-{{Toronto}}
-
-<div class="column full_size judges-will-not-evaluate">
-
 ### ★ ALERT!
 
 This page is used by the judges to evaluate your team for the [Best Supporting Entrepreneurship award](http://2016.igem.org/Judging/Awards#SpecialPrizes).
 
 Delete this box in order to be evaluated for this medal. See more information at [Instructions for Pages for awards](http://2016.igem.org/Judging/Pages_for_Awards/Instructions).
-
-</div>
-
-<div class="column full_size">
 
 ## Entrepreneurship
 
@@ -27,5 +19,3 @@ Here are a few examples:
 *   [2014 Imperial College London](http://2014.igem.org/Team:Imperial)
 *   [2013 University College London Entrepreneurship](http://2013.igem.org/Team:UCL_E)
 *   [2012 MIT Entrepreneurship](http://2012e.igem.org/wiki/index.php/Team:MIT_E)
-
-</div>

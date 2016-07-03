@@ -1,20 +1,10 @@
-{{Toronto}}
-
-<div class="column full_size judges-will-not-evaluate">
-
 ### ★ ALERT!
 
 This page is used by the judges to evaluate your team for the [Best Education and Public Engagement award](http://2016.igem.org/Judging/Awards#SpecialPrizes).
 
 Delete this box in order to be evaluated for this medal. See more information at [Instructions for Pages for awards](http://2016.igem.org/Judging/Pages_for_Awards/Instructions).
 
-</div>
-
-<div class="column full_size">
-
 Do you want to be considered for the [Best Education and Public Engagement award](http://2016.igem.org/Judging/Awards#SpecialPrizes)? Help the judges consider your team for this award by describing your work on this page.
-
-</div>
 
 Here are two examples of excellent Education and Public Engagement from 2015:
 
