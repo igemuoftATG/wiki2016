@@ -1,34 +1,25 @@
 {{Toronto}}
-<html>
-
 
 <div class="column full_size judges-will-not-evaluate">
-<h3>★  ALERT! </h3>
-<p>This page is used by the judges to evaluate your team for the<a href="http://2016.igem.org/Judging/Awards"> Best Software Tool award</a>. </p>
 
+### ★ ALERT!
 
-<p> Delete this box in order to be evaluated for this medal. See more information at <a href="http://2016.igem.org/Judging/Pages_for_Awards/Instructions"> Instructions for Pages for awards</a>.</p>
+This page is used by the judges to evaluate your team for the [Best Software Tool award](http://2016.igem.org/Judging/Awards).
+
+Delete this box in order to be evaluated for this medal. See more information at [Instructions for Pages for awards](http://2016.igem.org/Judging/Pages_for_Awards/Instructions).
+
 </div>
-
-
-
-
-
 
 <div class="column full_size">
-<p>Regardless of the topic, iGEM projects often create or adapt computational tools to move the project forward. Because they are born out of a direct practical need, these software tools (or new computational methods) can be surprisingly useful for other teams. Without necessarily being big or complex, they can make the crucial difference to a project's success. This award tries to find and honor such "nuggets" of computational work.</p>
 
+Regardless of the topic, iGEM projects often create or adapt computational tools to move the project forward. Because they are born out of a direct practical need, these software tools (or new computational methods) can be surprisingly useful for other teams. Without necessarily being big or complex, they can make the crucial difference to a project's success. This award tries to find and honor such "nuggets" of computational work.
 
-<h5> Inspiration </h5>
-<p>
+##### Inspiration
+
 Here are a few examples from previous teams:
-</p>
-<ul>
-<li><a href="http://2013.igem.org/Team:TU-Munich/Results/Software">TU Munich 2013</a></li>
-<li><a href="http://2014.igem.org/Team:Heidelberg/Software">Heidelberg 2014</a></li>
-<li><a href="http://2014.igem.org/Team:Aachen/Project/Measurement_Device#Software">Aachen 2014</a></li>
-</ul>
+
+*   [TU Munich 2013](http://2013.igem.org/Team:TU-Munich/Results/Software)
+*   [Heidelberg 2014](http://2014.igem.org/Team:Heidelberg/Software)
+*   [Aachen 2014](http://2014.igem.org/Team:Aachen/Project/Measurement_Device#Software)
 
 </div>
-
-</html>

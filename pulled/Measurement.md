@@ -1,36 +1,26 @@
 {{Toronto}}
-<html>
-
-
-
 
 <div class="column full_size judges-will-not-evaluate">
-<h3>★  ALERT! </h3>
-<p>This page is used by the judges to evaluate your team for the<a href="http://2016.igem.org/Judging/Awards"> Best Measurement award</a>. </p>
 
+### ★ ALERT!
 
-<p> Delete this box in order to be evaluated for this medal. See more information at <a href="http://2016.igem.org/Judging/Pages_for_Awards/Instructions"> Instructions for Pages for awards</a>.</p>
+This page is used by the judges to evaluate your team for the [Best Measurement award](http://2016.igem.org/Judging/Awards).
+
+Delete this box in order to be evaluated for this medal. See more information at [Instructions for Pages for awards](http://2016.igem.org/Judging/Pages_for_Awards/Instructions).
+
 </div>
-
-
-
-
 
 <div class="column full_size">
 
+There are a lot of exciting Parts in the Registry, but many Parts have still not been characterized. Synthetic Biology needs great measurement approaches for characterizing new parts, and efficient new methods for characterizing many parts at once. If you've done something exciting in the area of Measurement, describe it here!
 
-<p>There are a lot of exciting Parts in the Registry, but many Parts have still not been characterized. Synthetic Biology needs great measurement approaches for characterizing new parts, and efficient new methods for characterizing many parts at once. If you've done something exciting in the area of Measurement, describe it here!</p>
+##### Inspiration
 
+You can look at what other teams did to get some inspiration!  
+Here are a few examples:
 
-<h5>Inspiration</h5>
-<p>You can look at what other teams did to get some inspiration! <br />
-Here are a few examples:</p>
-<ul>
-<li><a href="http://2014.igem.org/Team:Aachen">2014 Aachen  </a></li>
-<li><a href="http://2014.igem.org/Team:Valencia_Biocampus">2014 Valencia Biocampus</a></li>
-<li><a href="http://2015.igem.org/Team:William_and_Mary">2015 William and Mary</a></li>
-</ul>
+*   [2014 Aachen](http://2014.igem.org/Team:Aachen)
+*   [2014 Valencia Biocampus](http://2014.igem.org/Team:Valencia_Biocampus)
+*   [2015 William and Mary](http://2015.igem.org/Team:William_and_Mary)
 
 </div>
-
-</html>
