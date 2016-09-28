@@ -9,19 +9,22 @@ const toc = require('markdown-toc')
 const highlighter = require('highlight.js')
 const wiredep = require('wiredep')()
 
-const hbs = {}
-const templateData = {}
+let hbs = {}
+let templateData = {}
 
 class Helpers {
   constructor(handlebars, tplateData) {
     hbs = handlebars
     templateData = tplateData
 
+    this.navigation = this.navigation.bind(this)
+    this.navigationWrapper = this.navigationWrapper.bind(this)
+
     return {
       template: this.template,
       capitals: this.capitals,
       bodyInsert: this.bodyInsert,
-      link: link,
+      link: this.link,
       cssInject: this.cssInject,
       jsInject: this.jsInject,
       markdown: this.markdown,
@@ -59,14 +62,14 @@ class Helpers {
 
     if (mode !== 'live') {
       content += '<!-- bower:js --->\n\t'
-      for (let script in wiredep.js) {
+      for (let script of wiredep.js) {
         script = script.slice(script.indexOf('bower_components'))
         content += `<script src="${script}"></script>\n\t`
       }
       content += '<!-- endbower -->\n\t'
     }
 
-    for (let script in scripts) {
+    for (let script of scripts) {
       if (mode !== 'live' && script !== 'vendor_min_js') {
         content += `<script src="http://${templateData.year}.igem.org/Template:${templateData.teamName}/js/${script}?action=raw&ctype=text/javascript"></script>\n\t`
       } else if (script !== 'vendor_min_js') {
@@ -74,7 +77,7 @@ class Helpers {
       }
     }
 
-    for (let script in scripts) {
+    for (let script of scripts) {
       if (script === 'vendor_min_js') {
         content = `<script src="http://${templateData.year}.igem.org/Template:${templateData.teamName}/js/${script}?action=raw&ctype=text/javascript"></script>\n\t`
           + content
@@ -98,7 +101,7 @@ class Helpers {
 
     if (mode !== 'live') {
       content += '<!-- bower:css -->'
-      for (let stylesheet in wiredep.css) {
+      for (let stylesheet of wiredep.css) {
         stylesheet = stylesheet.slice(stylesheet.indexOf('bower_components'))
         content += `<link rel="stylesheet" href="${stylesheet}" type="text/css" />\n\t`
       }
@@ -109,7 +112,7 @@ class Helpers {
       content += '<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">\n\t'
     }
 
-    for (let stylesheet in styles) {
+    for (let stylesheet of styles) {
       if (mode === 'live' && stylesheet !== 'vendor_min_css') {
         content += `<link rel="stylesheet" href="http://${templateData.year}.igem.org/Template:${templateData.teamName}/css/${stylesheet}?action=raw&ctype=text/css" type="text/css" />\n\t`
       } else if (stylesheet !== 'vendor_min_css') {
@@ -117,7 +120,7 @@ class Helpers {
       }
     }
 
-    for (let stylesheet in styles) {
+    for (let stylesheet of styles) {
       if (stylesheet === 'vendor_min_css') {
         content = `<link rel="stylesheet" href="http://${templateData.year}.igem.org/Template:${templateData.teamName}/css/${stylesheet}?action=raw&ctype=text/css" type="text/css" />\n\t`
           + content
@@ -183,56 +186,54 @@ class Helpers {
   }
 
   navigation(field, mode, active1, active2, recursed) {
-    var active, arg,isActive, item, newItem, ref, value
-    let content = '<ul>\n'
-    let actives = new Array()
-
-    let i, j, k, l, len, len1
-    for (i = j = 0, len = arguments.length j < len i = ++j) {
-      arg = arguments[i]
+    var active, actives, arg, content, i, isActive, item, j, k, l, len, len1, newItem, ref, value;
+    content = "<ul>\n";
+    actives = new Array();
+    for (i = j = 0, len = arguments.length; j < len; i = ++j) {
+      arg = arguments[i];
       if (i >= 2) {
-        actives.push(arg)
+        actives.push(arg);
       }
     }
     for (item in field) {
-      value = field[item]
-      isActive = false
-      for (k = 0, len1 = actives.length k < len1 k++) {
-        active = actives[k]
+      value = field[item];
+      isActive = false;
+      for (k = 0, len1 = actives.length; k < len1; k++) {
+        active = actives[k];
         if (item === active) {
-          isActive = true
+          isActive = true;
         }
       }
       if (item[0] === '_') {
-        newItem = ''
-        for (i = l = 1, ref = item.length - 1 1 <= ref ? l <= ref : l >= ref i = 1 <= ref ? ++l : --l) {
-          newItem += item[i]
+        newItem = '';
+        for (i = l = 1, ref = item.length - 1; 1 <= ref ? l <= ref : l >= ref; i = 1 <= ref ? ++l : --l) {
+          newItem += item[i];
         }
-        item = newItem
+        item = newItem;
       }
       if (typeof value === 'object') {
         if (isActive) {
-          content += '<li class="active"><a href="#"><span>' + item + '</span></a>\n'
+          content += "<li class=\"active\"><a href=\"#\"><span>" + item + "</span></a>\n";
         } else {
-          content += '<li><a href="#"><span>' + item + '</span></a>\n'
+          content += "<li><a href=\"#\"><span>" + item + "</span></a>\n";
         }
-        content += navigation(value, mode, active1, active2, true)
+        content += this.navigation(value, mode, active1, active2, true);
       } else {
         if (isActive) {
-          content += '<li class="active"><a href="' + (link(item, mode)) + '"><span>' + value + '</span></a></li>\n'
+          content += "<li class=\"active\"><a href=\"" + (this.link(item, mode)) + "\"><span>" + value + "</span></a></li>\n";
         } else {
-          content += '<li><a href="' + (link(item, mode)) + '"><span>' + value + '</span></a></li>\n'
+          content += "<li><a href=\"" + (this.link(item, mode)) + "\"><span>" + value + "</span></a></li>\n";
         }
-        content += '</li>\n'
+        content += "</li>\n";
       }
     }
-    content += '</ul>\n'
-    return content
+    content += "</ul>\n";
+    return content;
   }
 
   navigationWrapper(mode, active1, active2) {
     let content = '<div id="navigation">\n'
-    content += navigation(templateData.navigation, mode, active1, active2)
+    content += this.navigation(templateData.navigation, mode, active1, active2)
     content += '</div>'
 
     return new hbs.SafeString(content)
@@ -266,10 +267,9 @@ class Helpers {
 
   markdown(file) {
       marked.setOptions({
-          highlight: (code) ->
-              return highlighter.highlightAuto(code).value
+          highlight: (code) => highlighter.highlightAuto(code).value
       })
-      const markdownFile = fs.readFileSync("#{__dirname}/src/markdown/#{file}.md").toString()
+      const markdownFile = fs.readFileSync(`${__dirname}/src/markdown/${file}.md`).toString()
       const handlebarsedMarkdown = hbs.compile(markdownFile)(templateData)
 
       let content = '<div class="content" id="content-main">'
@@ -285,3 +285,5 @@ class Helpers {
       return new hbs.SafeString(content)
   }
 }
+
+module.exports = Helpers

@@ -105,8 +105,6 @@ headerCreator = (fileType) ->
 
     headerText = new String()
 
-
-
     if fileType is 'html'
         headerText += '<html>\n'
 
@@ -274,22 +272,3 @@ gulp.task 'serve', ['sass', 'build:dev'], ->
 
 # What happens when you run `gulp`
 gulp.task "default", ['serve']
-
-handleRequestError = (err, httpResponse) ->
-    gutil.log('err: ', err)
-    gutil.log('status code: ', httpResponse.statusCode)
-
-colourify = (file, url, multiform, type) ->
-    if type is 'image'
-        year = JSON.parse(fs.readFileSync(files.template)).year
-        return "Uploaded #{file} → http://#{year}.igem.org/File:#{multiform['wpDestFile']}".yellow
-    else if path.extname(file) is '.html' and url.indexOf('Template') > 0
-        return "Uploaded #{file} → #{url}".cyan
-    else if path.extname(file) is '.html'
-        return "Uploaded #{file} → #{url}".grey
-    else if path.extname(file) is '.css'
-        return "Uploaded #{file} → #{url}".magenta
-    else if path.extname(file) is '.js'
-        return "Uploaded #{file} → #{url}".blue
-    else
-        return "Uploaded #{file} → #{url}"
