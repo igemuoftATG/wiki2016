@@ -153,19 +153,12 @@ compileAllHbs = (templateData, dest) ->
     ).on 'end', ->
         browserSync.reload()
 
-# **coffeescript:helpers**
-gulp.task 'coffeescript:helpers', ->
-    return gulp
-        .src("#{files.helpers}.coffee")
-        .pipe(coffee().on('error', gutil.log))
-        .pipe(gulp.dest('.'))
-
 # **handlebars:dev**
-gulp.task "handlebars:dev", ['sass', 'coffeescript:helpers'], ->
+gulp.task "handlebars:dev", ['sass'], ->
     return compileAllHbs(fillTemplates().dev, dests.dev.folder)
 
 # **handlebars:live**
-gulp.task "handlebars:live", ['minifyAndUglify', 'coffeescript:helpers'], ->
+gulp.task "handlebars:live", ['minifyAndUglify'], ->
     return compileAllHbs(fillTemplates().live, dests.live.folder)
 
 # Compile `.scss` into `.css`
@@ -272,15 +265,12 @@ gulp.task 'serve', ['sass', 'build:dev'], ->
                 '/preamble'         : './src/preamble'
                 '/images'           : './images'
 
-    watch [globs.hbs, globs.libCoffee, globs.libJS, globs.md, globs.sass, files.template, "#{files.helpers}.coffee"], ->
+    watch [globs.hbs, globs.libCoffee, globs.libJS, globs.md, globs.sass, files.template], ->
         # gutil.log(vinyl.inspect())
         gulp.start('build:dev')
 
     watch [globs.libCoffee, globs.libJS], ->
         gulp.start('browserify')
-
-    # watch "#{files.helpers}.coffee", ->
-    #     gulp.start('coffeescript:helpers')
 
 # What happens when you run `gulp`
 gulp.task "default", ['serve']
