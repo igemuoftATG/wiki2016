@@ -224,6 +224,7 @@ body {
                 // Hide inner navs offscreen for now
                 position: absolute;
                 left: -9001px;
+                z-index: 9999;
             }
 
             &:hover {

@@ -255,7 +255,8 @@ gulp.task('serve', [ 'sass', 'build:dev' ], () => {
         '/preamble': './src/preamble',
         '/images': './images'
       }
-    }
+    },
+    open: false
   })
 
   watch([ globs.hbs, globs.libJS, globs.md, globs.sass, files.template ], () => {
