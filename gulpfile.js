@@ -119,7 +119,7 @@ const headerCreator = (fileType) => {
   headerText += `${opener} ####################################################### ${closer}\n`
   headerText += `\n${opener} repo for this wiki: ${_package.repository.url} ${closer}\n\n`
 
-  if (fileType === 'html') headerText = '</html>\n'
+  if (fileType === 'html') headerText += '</html>\n'
 
   return headerText
 }
