@@ -302,15 +302,6 @@ const getTemplates = () => globby([ uglobs.templates ])
     dest: path.basename(template).replace(/\.html$/, '')
   })))
 
-gulp.task('backup', (cb) => {
-  igemwiki.downloadAll({ dir: dirs.backups })
-    .then((results) => {
-      console.log('Download results: ', results)
-      cb()
-    })
-    .catch(gutil.log)
-})
-
 gulp.task('upload:templates', (cb) => {
   getTemplates()
     .then(confs => Promise.all([
