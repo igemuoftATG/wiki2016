@@ -142,7 +142,7 @@ class Helpers {
 
     if (mode === 'live') {
       if (format === 'directlink') {
-        if (fs.readddirSync(__dirname).indexOf('images.json') !== -1) {
+        if (fs.readdirSync(__dirname).indexOf('images.json') !== -1) {
           imageStores = JSON.parse(fs.readFileSync('images.json'))
           content = imageStores[img]
         } else {
