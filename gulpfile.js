@@ -19,6 +19,7 @@ const gutil = require('gulp-util')
 const watch = require('gulp-watch')
 
 // npm modules
+const Promise = require('bluebird')
 const browserify = require('browserify')
 const browserSync = require('browser-sync').create()
 const buffer = require('vinyl-buffer')
@@ -28,6 +29,7 @@ const mainBowerFiles = require('main-bower-files')
 const runSequence = require('run-sequence')
 const combiner = require('stream-combiner2')
 const source = require('vinyl-source-stream')
+const _ = require('lodash')
 
 // API for uploading/download pages with igem wiki
 const igemwiki = require('igemwiki-api')({ year: 2016, teamName: 'Toronto' })
@@ -55,7 +57,8 @@ const dests = {
   live: {
     folder: './build-live',
     js: './build-live/js',
-    css: './build-live/css'
+    css: './build-live/css',
+    templates: './build-live/templates'
   }
 }
 
@@ -117,7 +120,8 @@ const headerCreator = (fileType) => {
   headerText += `${opener} #  This ${fileType} was produced by the igemwiki generator${spacer}# ${closer}\n`
   headerText += `${opener} #  https://github.com/igemuoftATG/generator-igemwiki  # ${closer}\n`
   headerText += `${opener} ####################################################### ${closer}\n`
-  headerText += `\n${opener} repo for this wiki: ${_package.repository.url} ${closer}\n\n`
+  headerText += `\n${opener} repo for this wiki: ${_package.repository.url} ${closer}\n`
+  headerText += `${opener} file built: ${new Date()} ${closer}\n\n`
 
   if (fileType === 'html') headerText += '</html>\n'
 
@@ -275,10 +279,46 @@ gulp.task('default', [ 'serve' ])
 
 // === upload/download tasks ===
 
+const dirs = {
+  backups: path.resolve(__dirname, './backups')
+}
+
+const uglobs = {
+  templates: dests.live.templates + '/**/*.html'
+}
+
+const mapConfToUploadOpts = (jar) => ({ type, dest, fileName }) => ({
+  jar,
+  type,
+  fileName,
+  pageOrImageName: dest,
+  dir: './responses'
+})
+
+const getTemplates = () => globby([ uglobs.templates ])
+  .then(templates => templates.map(template => ({
+    type: 'template',
+    fileName: path.resolve(__dirname, template),
+    dest: path.basename(template).replace(/\.html$/, '')
+  })))
+
 gulp.task('backup', (cb) => {
-  igemwiki.downloadAll({ dir: path.resolve(__dirname, './backups') })
+  igemwiki.downloadAll({ dir: dirs.backups })
     .then((results) => {
       console.log('Download results: ', results)
       cb()
     })
+    .catch(gutil.log)
+})
+
+gulp.task('upload:templates', (cb) => {
+  getTemplates()
+    .then(confs => Promise.all([
+      Promise.resolve(confs),
+      igemwiki.login()
+    ]))
+    .then(([ confs, jar ]) => confs.map(mapConfToUploadOpts(jar)))
+    .then(opts => Promise.map(opts, opt => igemwiki.upload(opt), { concurrency: 1 }))
+    .then(() => console.log('Upload completed'))
+    .catch(console.error)
 })
