@@ -29,6 +29,9 @@ const runSequence = require('run-sequence')
 const combiner = require('stream-combiner2')
 const source = require('vinyl-source-stream')
 
+// API for uploading/download pages with igem wiki
+const igemwiki = require('igemwiki-api')({ year: 2016, teamName: 'Toronto' })
+
 // Files and Globs
 const paths = {
   partials: './src/templates',
@@ -269,3 +272,13 @@ gulp.task('serve', [ 'sass', 'build:dev' ], () => {
 })
 
 gulp.task('default', [ 'serve' ])
+
+// === upload/download tasks ===
+
+gulp.task('backup', (cb) => {
+  igemwiki.downloadAll({ dir: path.resolve(__dirname, './backup') })
+    .then((results) => {
+      console.log('Download results: ', results)
+      cb()
+    })
+})
