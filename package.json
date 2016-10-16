@@ -6,7 +6,10 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "backup": "igemwiki backup -y 2016 -t Toronto -d backups"
+    "backup": "igemwiki backup -y 2016 -t Toronto -d backups",
+    "upload:templates": "igemwiki upload-glob -y 2016 -t Toronto --type template --glob \"./build-live/templates/*.html\"",
+    "upload:js": "igemwiki upload-glob -y 2016 -t Toronto --type script --glob \"./build-live/js/*_js\"",
+    "upload:css": "igemwiki upload-glob -y 2016 -t Toronto --type stylesheet --glob \"./build-live/css/*_css\""
   },
   "repository": {
     "type": "git",
