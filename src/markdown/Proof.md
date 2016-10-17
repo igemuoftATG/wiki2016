@@ -7,7 +7,7 @@ We investigated specificity and sensitivity of BBa_K1127008 against gold and cup
 
 ### Results:
 
-![alt text](http://parts.igem.org/wiki/images/6/60/Igem_2016_Gold_Copper_Cell_Assay.jpeg)
+![alt text](http://parts.igem.org/wiki/images/6/60/Igem_2016_Gold_Copper_Cell_Assay.jpeg After 12h incubation)
 
 ## Cell Free Paper Based Genee Circuit Concept
 
