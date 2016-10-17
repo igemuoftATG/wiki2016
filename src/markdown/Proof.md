@@ -18,7 +18,7 @@ Cells transformed with BBa_K2048002 were found to be specific to presence of gol
 Cells transformed with BBa_K1127008 showed orange color development in the presence of both gold(III) and copper(II) ions. Color observed in the presence of gold was darker than the one in the presence of copper ions.
 Most importantly, circuit expression was observed for BBa_K1127008 and BBa_K2048001 even when no metal ion was added to the well. However this was not the case with device BBa_K2048002.
 
-![alt text](http://parts.igem.org/wiki/images/6/60/Igem_2016_Gold_Copper_Cell_Assay_2.jpeg "Figure 2: CPRG assay results after 24 hours of incubation")
+![alt text](http://parts.igem.org/wiki/images/6/6d/Igem_2016_Gold_Copper_Cell_Assay_2.jpeg "Figure 2: CPRG assay results after 24 hours of incubation")
 
 As shown in Figure 2, After >24h incubation, expression levels for BBa_K1127008 and BBa_K2048001 reached to its maximal steady state levels and expression levels for metal and gold ions were similar. BBa_K2048002 showed concentration dependent expression in the presence of gold(III) ions up to 1uM with minimum to no expression in the presence of copper(II) ions.
 
