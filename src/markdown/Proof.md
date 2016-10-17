@@ -7,7 +7,26 @@ We investigated specificity and sensitivity of BBa_K1127008 against gold and cup
 
 ### Results:
 
-![alt text](http://parts.igem.org/wiki/images/6/60/Igem_2016_Gold_Copper_Cell_Assay.jpeg "After 12h incubation")
+![alt text](http://parts.igem.org/wiki/images/6/60/Igem_2016_Gold_Copper_Cell_Assay.jpeg "Figure 1: CPRG assay results after 12 hours of incubation")
+
+Image shown in Figure 1 was obtained after 12 hours of incubation. Lanes A to D contained copper(II) metals according to the uM concentration shown on the left hand side whereas lanes E to F contained corresponding gold(III) metal ions.
+Control groups: Untransformed DH10B cells containing the metal ion of interest (Lanes D and I)
+Experiment groups: BioBricks BBa_K2048001 labelled as GolS in lanes C and G, BBa_K2048002 labelled as P118A in lanes B and F and BBa_K1127008 labelled as York in lanes A and E.
+
+Dark red color was observed in the presence of DH10B cells transformed with BBa_K2048001 in the presence of gold(III) metal ions. Although the expression was sensitive to the gold ions, it was not particularly specific to gold ion. Red-orange expression levels were also observed in the presence of copper(II) ions.
+Cells transformed with BBa_K2048002 were found to be specific to presence of gold(III) ions. Minimum to no activity was observed in the presence of copper(II) ions. However, complete color development required more than 12 hours.
+Cells transformed with BBa_K1127008 showed orange color development in the presence of both gold(III) and copper(II) ions. Color observed in the presence of gold was darker than the one in the presence of copper ions.
+Most importantly, circuit expression was observed for BBa_K1127008 and BBa_K2048001 even when no metal ion was added to the well. However this was not the case with device BBa_K2048002.
+
+![alt text](http://parts.igem.org/wiki/images/6/60/Igem_2016_Gold_Copper_Cell_Assay_2.jpeg "Figure 2: CPRG assay results after 24 hours of incubation")
+
+As shown in Figure 2, After >24h incubation, expression levels for BBa_K1127008 and BBa_K2048001 reached to its maximal steady state levels and expression levels for metal and gold ions were similar. BBa_K2048002 showed concentration dependent expression in the presence of gold(III) ions up to 1uM with minimum to no expression in the presence of copper(II) ions.
+
+### Conclusion:
+
+We proved that BBa_K1127008 Biobrick expression was not specific for Gold(III) ions. Comparable expression levels were also observed in the presence of Copper(II) ions and abscence of metal ions.
+
+
 
 ## Cell Free Paper Based Genee Circuit Concept
 
