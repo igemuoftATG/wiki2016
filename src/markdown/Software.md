@@ -275,4 +275,4 @@ Finally, we used Rosetta’s automatic ligand-docking function in order to compa
 ### Appendix
 
 Appendix I: GolS Homodimer
- 
+gols_homodimer.png 
