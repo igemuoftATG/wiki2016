@@ -2,7 +2,7 @@
 
 ##### By Benjamin Couillard 
 
-* With assistance from Abraham Ogbaslase, Steffi Tran, Jacob Rumsey, and Pavel Shmatnik
+*With assistance from Abraham Ogbaslase, Steffi Tran, Jacob Rumsey, and Pavel Shmatnik*
 
 The objective of this paper is to demonstrate that the International Genetically Engineered Machine (iGEM) competition in synthetic biology has a large social benefit, in terms of education and tangible impacts, and accordingly that barriers to participation should be lowered in the interest of expanding this social benefit. There is a substantial literature on how various aspects of iGEM- problem-based learning, engineering competitions, and undergraduate research- provide academic benefits and/or signal the acquisition of skills to potential employers. There is also some literature on how participation in iGEM specifically teaches important scientific skills and higher-order thinking, generates a passion for science, and occasionally results in scientific publications. Besides reviewing this literature, this paper will demonstrate that the act of publishing scientific research based on an iGEM project indicates a larger educational benefit than participation alone, since publication is often done by finalist and gold medal-winning teams (issues of causality will also be addressed). It will also demonstrate that the number of scientific publications and businesses resulting from an iGEM project is non-trivial, and will demonstrate how businesses resulting from iGEM teams connect to the greater economy.
 	
