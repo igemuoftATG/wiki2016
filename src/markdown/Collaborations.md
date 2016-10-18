@@ -5,9 +5,9 @@
 
 We collaborated with iGEM Concordia to validate the functionality of our constructs BBa_K2048001 and BBa_K2048002. We have shipped our DNA samples to Concordia iGem on September 2016. Following protocol was executed by iGem Concordia for the preliminary results:
 ..* Transformed E.Coli DH5a cells with BBa_K2048001 and BBa_K2048002 separately.
-..*For control groups untransformed E.Coli DH5a cells were used.
-..*10uM and 100uM gold(III) metal ions were added to the control and experimental groups along with XGal
-..*Blue color change was observed.
+..* For control groups untransformed E.Coli DH5a cells were used.
+..* 10uM and 100uM gold(III) metal ions were added to the control and experimental groups along with XGal
+..* Blue color change was observed.
 
 #### Results:
 After the 2-3 hours, visible blue color was observed in 10uM and 100uM tubes containing E.Coli BBa_K2048001. Faint blue color was also observed in 10uM and 100uM tubes containing E.Coli BBa_K2048002. 
