@@ -1,11 +1,11 @@
 # Proof
 
-## Comparative Functional Analysis of BBa_K2048001 and BBa_K2048002 for Device Sensitivity and Specificity
+### Comparative Functional Analysis of BBa_K2048001 and BBa_K2048002 for Device Sensitivity and Specificity
 
 We investigated specificity and sensitivity of BBa_K1127008 against gold and cupper ion by conducting Chlorophenol red-β-D-galactopyranoside (CPRG) assay. We compared the results of our devices BBa_K2048001 and BBa_K2048002 against BBa_K1127008, which is the currently available functional device in the registry for gold sensing.
 
 
-### Results:
+#### Results:
 
 ![alt text](http://parts.igem.org/wiki/images/6/60/Igem_2016_Gold_Copper_Cell_Assay.jpeg "Figure 1: CPRG assay results after 12 hours of incubation")
 
@@ -22,7 +22,7 @@ Most importantly, circuit expression was observed for BBa_K1127008 and BBa_K2048
 
 As shown in Figure 2, After >24h incubation, expression levels for BBa_K1127008 and BBa_K2048001 reached to its maximal steady state levels and expression levels for metal and gold ions were similar. BBa_K2048002 showed concentration dependent expression in the presence of gold(III) ions up to 1uM with minimum to no expression in the presence of copper(II) ions.
 
-### Conclusion:
+#### Conclusion:
 
 We proved that BBa_K1127008 Biobrick expression was not specific for Gold(III) ions. Comparable expression levels were also observed in the presence of Copper(II) ions and abscence of metal ions.
 
@@ -30,7 +30,7 @@ We proved that BBa_K1127008 Biobrick expression was not specific for Gold(III) i
 
 
 
-## Cell Free Paper Based Genee Circuit Concept
+### Cell Free Paper Based Genee Circuit Concept
 
 The process begins with the application of molecular biology techniques to create the plasmids holding the gene(s) of interest. Then, the paper array supplies are prepared. A hydrophobic barrier around each “well” can be made by using software to design a matrix and a printer to print wax in a given pattern onto the paper. Then transcription and translation enzymes are combined with the gene circuits, embedded into the paper, and freeze dried to form a paper disk. Upon rehydration, i.e. the addition of water, the abiotic and sterile paper will produce a functional and stable cell-free synthetic gene network. In our case, the incorporated GolB promoter is activated with the transcriptional regulator GolS, in the presence of gold ions. The LacZ reporter is then transcribed, producing the - galactosidase, which allows a dramatic color change, from yellowish-white to purple, to be observed in individual paper wells. Thus, the engineered paper can be used to test soil samples for gold. By simply isolating a soil sample, hydrating the paper based technology, placing it into the sample, and allowing it to incubate at 37  for 24 hours, the presence or absence of gold can be confirmed, by the change of colour in the paper compared to the control wells.
 
