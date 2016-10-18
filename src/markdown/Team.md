@@ -1,40 +1,81 @@
 # Team
 
-## Leaders
+![](http://2016.igem.org/wiki/images/f/f4/T--Toronto--2016_team.jpg)
 
-#### Seray Cicek
+## Presidents
+
+Seray Cicek
+![](http://2016.igem.org/wiki/images/1/1e/T--Toronto--2016_seray-cicek.jpg)
 
 Anthony Zhao
-
 ![](http://2016.igem.org/wiki/images/6/61/T--Toronto--2016_anthony-zhao.jpg)
 
-Fahim Shahreer
+
+### Project Leads
+
+Katariina Jaenes
+![](http://2016.igem.org/wiki/images/f/f3/T--Toronto--2016_katariina-jaenes.jpg)
+
+Alexander Sullivan
+![](http://2016.igem.org/wiki/images/f/f0/T--Toronto--2016_alexander-sullivan.jpg)
+
+Cathy Cao
+![]( http://2016.igem.org/wiki/images/e/e8/T--Toronto--2016_quynh-cao.jpg)
 
 Hamed Tinafar
 
-Alexander Sullivan
-
-Christine Byrd
+### Software Leads
 
 Heba Ahmad Farookhi
+![](http://2016.igem.org/wiki/images/3/39/T--Toronto--2016_heba-farookhi.jpg)
 
-Quynh Cao
+
+Fahim Shahreer
+![](http://2016.igem.org/wiki/images/2/27/T--Toronto--2016_fahim-shahreer.jpg)
+
+
+### Human Practices Leads
 
 Lynelle D'Silva
 
-Katariina Jaenes
+![](http://2016.igem.org/wiki/images/a/a0/T--Toronto--2016_lynelle-d%27silva.jpg)
 
-## Members
+Shivali Barot
+
+Christine Byrd
+
+Ann Chang
+
+
+
+### Members
+
+Bohdan Lukach
+![](http://2016.igem.org/wiki/images/1/1e/T--Toronto--2016_bohdan-lukach.jpg)
+
+Andrea Xi Kang
+![](http://2016.igem.org/wiki/images/6/64/T--Toronto--2016_andrea-xi-kang.jpg)
+
+Gabriela Morgenshtern
+![](http://2016.igem.org/wiki/images/1/19/T--Toronto--2016_gabriela-morgenshtern.jpg)
+
+Joshua Efe
+![](http://2016.igem.org/wiki/images/c/c4/T--Toronto--2016_joshua-efe.jpg)
+
+Esther Jang
+![](http://2016.igem.org/wiki/images/6/60/T--Toronto--2016_esther-jang.jpg)
+
+Abraham Ogbaslase
+![](http://2016.igem.org/wiki/images/c/c3/T--Toronto--2016_abraham-ogbaslase.jpg)
+
+Enea Koxhioni
+![](http://2016.igem.org/wiki/images/b/b1/T--Toronto--2016_enea-koxhioni.jpg)
 
 Benjamin Couillard
 
 June Seongyoun Lee
 
-Andrea Xi Kang
-
 Zarifah Omar Ali
-
-Bohdan Lukach
 
 Jiaxing Huang
 
@@ -48,19 +89,11 @@ Ming Chen Hsu
 
 Richard Li
 
-Gabriela Morgenshtern
-
-Joshua Efe
-
 Sonia Chhay
 
 Nam Nguyen
 
-zian qin
-
-Shivali Barot
-
-Ann Chang
+Zian Qin
 
 Gargi Ghosh
 
@@ -76,11 +109,7 @@ Leon Xu
 
 Hannah Li
 
-Esther Jang
-
 Ebenezeer Mussie
-
-Abraham Ogbaslase
 
 Steffi Tran
 
@@ -99,7 +128,5 @@ Julian Mazzitelli
 Yu Lu Ding
 
 Pruthvi Desai
-
-Enea Koxhioni
 
 Umar Ibrahim Owadally
