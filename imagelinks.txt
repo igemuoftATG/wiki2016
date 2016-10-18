@@ -1,0 +1,26 @@
+
+> Toronto-wiki-2016@0.0.1 upload:images /Users/jmazz/Documents/repos/wiki2016
+> igemwiki upload-glob -n Toronto --type image --glob "./images/*.{jpg,png}"
+
+skipped[643ms] ./images/abraham-ogbaslase.jpg -> http://2016.igem.org/wiki/images/c/c3/T--Toronto--2016_abraham-ogbaslase.jpg
+skipped[611ms] ./images/unknown01.jpg -> http://2016.igem.org/wiki/images/2/28/T--Toronto--2016_unknown01.jpg
+skipped[598ms] ./images/umar-owadally.jpg -> http://2016.igem.org/wiki/images/9/94/T--Toronto--2016_umar-owadally.jpg
+skipped[813ms] ./images/team.jpg -> http://2016.igem.org/wiki/images/f/f4/T--Toronto--2016_team.jpg
+skipped[607ms] ./images/seray-cicek.jpg -> http://2016.igem.org/wiki/images/1/1e/T--Toronto--2016_seray-cicek.jpg
+skipped[681ms] ./images/quynh-cao.jpg -> http://2016.igem.org/wiki/images/e/e8/T--Toronto--2016_quynh-cao.jpg
+uploaded[2147ms] ./images/lynelle-d'silva.jpg -> http://2016.igem.org/wiki/images/a/a0/T--Toronto--2016_lynelle-d%27silva.jpg
+skipped[691ms] ./images/katariina-jaenes.jpg -> http://2016.igem.org/wiki/images/f/f3/T--Toronto--2016_katariina-jaenes.jpg
+skipped[614ms] ./images/julian-mazzitelli.jpg -> http://2016.igem.org/wiki/images/2/22/T--Toronto--2016_julian-mazzitelli.jpg
+skipped[598ms] ./images/joshua-efe.jpg -> http://2016.igem.org/wiki/images/c/c4/T--Toronto--2016_joshua-efe.jpg
+uploaded[1643ms] ./images/igem.png -> http://2016.igem.org/wiki/images/f/f2/T--Toronto--2016_igem.png
+skipped[620ms] ./images/heba-farookhi.jpg -> http://2016.igem.org/wiki/images/3/39/T--Toronto--2016_heba-farookhi.jpg
+skipped[2745ms] ./images/gabriela-morgenshtern.jpg -> http://2016.igem.org/wiki/images/1/19/T--Toronto--2016_gabriela-morgenshtern.jpg
+skipped[606ms] ./images/fahim-shahreer.jpg -> http://2016.igem.org/wiki/images/2/27/T--Toronto--2016_fahim-shahreer.jpg
+skipped[650ms] ./images/esther-jang.jpg -> http://2016.igem.org/wiki/images/6/60/T--Toronto--2016_esther-jang.jpg
+skipped[585ms] ./images/enea-koxhioni.jpg -> http://2016.igem.org/wiki/images/b/b1/T--Toronto--2016_enea-koxhioni.jpg
+uploaded[2050ms] ./images/CHARLES?.jpg -> http://2016.igem.org/wiki/images/4/41/T--Toronto--2016_CHARLES%3F.jpg
+skipped[651ms] ./images/bohdan-lukach.jpg -> http://2016.igem.org/wiki/images/1/1e/T--Toronto--2016_bohdan-lukach.jpg
+skipped[580ms] ./images/anthony-zhao.jpg -> http://2016.igem.org/wiki/images/6/61/T--Toronto--2016_anthony-zhao.jpg
+skipped[647ms] ./images/andrea-xi-kang.jpg -> http://2016.igem.org/wiki/images/6/64/T--Toronto--2016_andrea-xi-kang.jpg
+skipped[655ms] ./images/alexander-sullivan.jpg -> http://2016.igem.org/wiki/images/f/f0/T--Toronto--2016_alexander-sullivan.jpg
+Upload completed
