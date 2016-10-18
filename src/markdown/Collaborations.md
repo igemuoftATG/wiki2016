@@ -4,6 +4,7 @@
 ![alt text](http://parts.igem.org/wiki/images/c/c5/Concordia_iGem_2016_Logo.png)
 
 We collaborated with iGEM Concordia to validate the functionality of our constructs BBa_K2048001 and BBa_K2048002. We have shipped our DNA samples to Concordia iGem on September 2016. Following protocol was executed by iGem Concordia for the preliminary results:
+
 1. Transformed E.Coli DH5a cells with BBa_K2048001 and BBa_K2048002 separately.
 2. For control groups untransformed E.Coli DH5a cells were used.
 3. 10uM and 100uM gold(III) metal ions were added to the control and experimental groups along with XGal
