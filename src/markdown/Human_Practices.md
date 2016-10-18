@@ -53,4 +53,4 @@ Read what other teams have done:
 *   [2014 Dundee](http://2014.igem.org/Team:Dundee/policypractice/experts)
 *   [2014 UC Davis](http://2014.igem.org/Team:UC_Davis/Policy_Practices_Overview)
 *   [2013 Manchester](http://2013.igem.org/Team:Manchester/HumanPractices)
-*   [2013 Cornell](http://2013.igem.org/Team:Cornell/outreach)
+*   [2013 Cornell](http://2013.igem.org/Team:Cornell/outreach)-->
