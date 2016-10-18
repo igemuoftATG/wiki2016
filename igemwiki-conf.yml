@@ -1,0 +1,13 @@
+templates:
+    - ./build-live/templates/*.html
+stylesheets:
+    - ./build-live/css/*_css
+scripts:
+    - ./build-live/js/*_js
+pages:
+    - ./build-live/*.html
+    - ./build-live/index.html:INDEX
+    - ./build-live/HP-Silver.html:HP/Silver
+    - ./build-live/HP-Gold.html:HP/Gold
+images:
+    - ./images/*.{png,jpg}

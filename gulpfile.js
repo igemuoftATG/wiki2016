@@ -19,6 +19,7 @@ const gutil = require('gulp-util')
 const watch = require('gulp-watch')
 
 // npm modules
+const Promise = require('bluebird')
 const browserify = require('browserify')
 const browserSync = require('browser-sync').create()
 const buffer = require('vinyl-buffer')
@@ -28,6 +29,7 @@ const mainBowerFiles = require('main-bower-files')
 const runSequence = require('run-sequence')
 const combiner = require('stream-combiner2')
 const source = require('vinyl-source-stream')
+const _ = require('lodash')
 
 // API for uploading/download pages with igem wiki
 const igemwiki = require('igemwiki-api')({ year: 2016, teamName: 'Toronto' })
@@ -55,7 +57,8 @@ const dests = {
   live: {
     folder: './build-live',
     js: './build-live/js',
-    css: './build-live/css'
+    css: './build-live/css',
+    templates: './build-live/templates'
   }
 }
 
@@ -117,9 +120,10 @@ const headerCreator = (fileType) => {
   headerText += `${opener} #  This ${fileType} was produced by the igemwiki generator${spacer}# ${closer}\n`
   headerText += `${opener} #  https://github.com/igemuoftATG/generator-igemwiki  # ${closer}\n`
   headerText += `${opener} ####################################################### ${closer}\n`
-  headerText += `\n${opener} repo for this wiki: ${_package.repository.url} ${closer}\n\n`
+  headerText += `\n${opener} repo for this wiki: ${_package.repository.url} ${closer}\n`
+  headerText += `${opener} file built: ${new Date()} ${closer}\n\n`
 
-  if (fileType === 'html') headerText = '</html>\n'
+  if (fileType === 'html') headerText += '</html>\n'
 
   return headerText
 }
@@ -272,13 +276,3 @@ gulp.task('serve', [ 'sass', 'build:dev' ], () => {
 })
 
 gulp.task('default', [ 'serve' ])
-
-// === upload/download tasks ===
-
-gulp.task('backup', (cb) => {
-  igemwiki.downloadAll({ dir: path.resolve(__dirname, './backups') })
-    .then((results) => {
-      console.log('Download results: ', results)
-      cb()
-    })
-})

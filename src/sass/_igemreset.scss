@@ -3,6 +3,7 @@
   // toggle this, with 'on' the page goes under the top bar
   // position: absolute;
   // border: 0;
+  height: 16px;
 }
 
 // #top_menu_14 {
@@ -25,12 +26,13 @@
 #content {
   border: 0;
   padding: 0;
+  margin: 0;
   width: 100%;
+  background-color: rgba(0,0,0,0);
 }
 
 #bodyContent {
   line-height: 1.42857143;
-  background: $bodyContentBG;
 }
 
 #mw-content-text {

@@ -1,20 +1,105 @@
-In this page you can introduce your team members, instructors, and advisors.
+# Team
 
-##### Inspiration
+## Leaders
 
-You can look at what other teams did to get some inspiration!
-Here are a few examples:
+#### Seray Cicek
 
-*   [METU Turkey](http://2014.igem.org/Team:METU_Turkey_team)
-*   [Colombia](http://2014.igem.org/Team:Colombia/Members)
-*   [Stony Brook](http://2014.igem.org/Team:Stony_Brook/Team)
-*   [OUC-China](http://2014.igem.org/Team:OUC-China/Team)
+Anthony Zhao
 
-##### What should this page contain?
+![](http://2016.igem.org/wiki/images/6/61/T--Toronto--2016_anthony-zhao.jpg)
 
-*   Include pictures of your teammates, don’t forget instructors and advisors!
-*   You can add a small biography or a few words from each team member, to tell us what you like, and what motivated you to participate in iGEM.
-*   Take team pictures! Show us your school, your lab and little bit of your city.
-*   Remember that image galleries can help you showcase many pictures while saving space.
+Fahim Shahreer
 
+Hamed Tinafar
 
+Alexander Sullivan
+
+Christine Byrd
+
+Heba Ahmad Farookhi
+
+Quynh Cao
+
+Lynelle D'Silva
+
+Katariina Jaenes
+
+## Members
+
+Benjamin Couillard
+
+June Seongyoun Lee
+
+Andrea Xi Kang
+
+Zarifah Omar Ali
+
+Bohdan Lukach
+
+Jiaxing Huang
+
+Celine Zhang
+
+Karim Sarif
+
+Tanuj Kumar
+
+Ming Chen Hsu
+
+Richard Li
+
+Gabriela Morgenshtern
+
+Joshua Efe
+
+Sonia Chhay
+
+Nam Nguyen
+
+zian qin
+
+Shivali Barot
+
+Ann Chang
+
+Gargi Ghosh
+
+Davesh Chauhan
+
+Nona Hashemi
+
+Connie Liu
+
+Zakary Georgis-Yap
+
+Leon Xu
+
+Hannah Li
+
+Esther Jang
+
+Ebenezeer Mussie
+
+Abraham Ogbaslase
+
+Steffi Tran
+
+Kevin chen
+
+Amita Gnanapandithan
+
+Tam Pham
+
+Ali Nawed
+
+Jacob Rumsey
+
+Julian Mazzitelli
+
+Yu Lu Ding
+
+Pruthvi Desai
+
+Enea Koxhioni
+
+Umar Ibrahim Owadally
