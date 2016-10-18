@@ -212,32 +212,32 @@ function colorsDiff(data1,data2){ //[r,g,b,a,r,g,b,a,r,...]
 </pre>
 
 #### Appendix IV: Projects page
-appendix4.png
 
+![](http://2016.igem.org/wiki/images/5/50/T--Toronto--2016_appendix4.png)
 
 #### Appendix V: Creating New Project
-appendix5.png
- 
+
+![](http://2016.igem.org/wiki/images/9/9d/T--Toronto--2016_appendix5.png) 
 
 #### Appendix VI: Sample Project
-appendix6.png 
 
+![](http://2016.igem.org/wiki/images/6/68/T--Toronto--2016_appendix6.png)
 
 #### Appendix VII: Creating New Test
-appendix7.png
 
+![](http://2016.igem.org/wiki/images/e/e9/T--Toronto--2016_appendix7.png)
 
 #### Appendix VIII: List of Tests
-appendix8.png 
 
+![](http://2016.igem.org/wiki/images/a/ad/T--Toronto--2016_appendix8.png)
 
 #### Appendix IX: Input Image
-appendix9.png 
 
+![](http://2016.igem.org/wiki/images/f/f6/T--Toronto--2016_appendix9.png)
 
 #### Appendix X: Analysis Results
-appendix10.png 
 
+![](http://2016.igem.org/wiki/images/5/58/T--Toronto--2016_appendix10.png)
 
 # Modeling Protein Folding with Rosetta
 
@@ -275,4 +275,4 @@ Finally, we used Rosetta’s automatic ligand-docking function in order to compa
 ### Appendix
 
 Appendix I: GolS Homodimer
-gols_homodimer.png 
+![](http://2016.igem.org/wiki/images/e/ed/T--Toronto--2016_GolS_homodimer.png)
