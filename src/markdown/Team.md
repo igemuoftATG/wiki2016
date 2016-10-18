@@ -1,5 +1,7 @@
 # Team
 
+![](http://2016.igem.org/wiki/images/f/f4/T--Toronto--2016_team.jpg)
+
 ## Presidents
 
 Seray Cicek
@@ -114,6 +116,7 @@ Esther Jang
 Ebenezeer Mussie
 
 Abraham Ogbaslase
+![](http://2016.igem.org/wiki/images/c/c3/T--Toronto--2016_abraham-ogbaslase.jpg)
 
 Steffi Tran
 
