@@ -1,8 +1,8 @@
 # Team
 
-## Leaders
+## Presidents
 
-#### Seray Cicek
+Seray Cicek
 
 ![](http://2016.igem.org/wiki/images/1/1e/T--Toronto--2016_seray-cicek.jpg)
 
@@ -10,35 +10,53 @@ Anthony Zhao
 
 ![](http://2016.igem.org/wiki/images/6/61/T--Toronto--2016_anthony-zhao.jpg)
 
-Fahim Shahreer
 
-![](http://2016.igem.org/wiki/images/2/27/T--Toronto--2016_fahim-shahreer.jpg)
-
-Hamed Tinafar
-
-Alexander Sullivan
-
-![](http://2016.igem.org/wiki/images/f/f0/T--Toronto--2016_alexander-sullivan.jpg)
-
-Christine Byrd
-
-Heba Ahmad Farookhi
-
-![](http://2016.igem.org/wiki/images/3/39/T--Toronto--2016_heba-farookhi.jpg)
-
-Quynh Cao
-
-![]( http://2016.igem.org/wiki/images/e/e8/T--Toronto--2016_quynh-cao.jpg)
-
-Lynelle D'Silva
-
-![](http://2016.igem.org/wiki/images/a/a0/T--Toronto--2016_lynelle-d%27silva.jpg)
+### Project Leads
 
 Katariina Jaenes
 
 ![](http://2016.igem.org/wiki/images/f/f3/T--Toronto--2016_katariina-jaenes.jpg)
 
-## Members
+Alexander Sullivan
+
+![](http://2016.igem.org/wiki/images/f/f0/T--Toronto--2016_alexander-sullivan.jpg)
+
+Cathy Cao
+
+![]( http://2016.igem.org/wiki/images/e/e8/T--Toronto--2016_quynh-cao.jpg)
+
+Hamed Tinafar
+
+### Software Leads
+
+Heba Ahmad Farookhi
+
+![](http://2016.igem.org/wiki/images/3/39/T--Toronto--2016_heba-farookhi.jpg)
+
+
+Fahim Shahreer
+
+![](http://2016.igem.org/wiki/images/2/27/T--Toronto--2016_fahim-shahreer.jpg)
+
+
+### Human Practices Leads
+
+Lynelle D'Silva
+
+![](http://2016.igem.org/wiki/images/a/a0/T--Toronto--2016_lynelle-d%27silva.jpg)
+
+Shivali Barot
+
+Christine Byrd
+
+Ann Chang
+
+
+
+### Members
+
+Bohdan Lukach
+![](http://2016.igem.org/wiki/images/1/1e/T--Toronto--2016_bohdan-lukach.jpg)
 
 Benjamin Couillard
 
@@ -48,9 +66,6 @@ Andrea Xi Kang
 ![](http://2016.igem.org/wiki/images/6/64/T--Toronto--2016_andrea-xi-kang.jpg)
 
 Zarifah Omar Ali
-
-Bohdan Lukach
-![](http://2016.igem.org/wiki/images/1/1e/T--Toronto--2016_bohdan-lukach.jpg)
 
 Jiaxing Huang
 
@@ -76,11 +91,7 @@ Sonia Chhay
 
 Nam Nguyen
 
-zian qin
-
-Shivali Barot
-
-Ann Chang
+Zian Qin
 
 Gargi Ghosh
 
