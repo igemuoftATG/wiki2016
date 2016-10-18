@@ -11,7 +11,8 @@
     "upload:js": "igemwiki upload-glob -y 2016 -n Toronto --type script --glob \"./build-live/js/*_js\"",
     "upload:css": "igemwiki upload-glob -y 2016 -n Toronto --type stylesheet --glob \"./build-live/css/*_css\"",
     "upload:preview": "igemwiki upload-conf -y 2016 -n Toronto --conf igemwiki-conf.yml -p",
-    "upload": "igemwiki upload-conf -y 2016 -n Toronto --conf igemwiki-conf.yml"
+    "upload": "igemwiki upload-conf -y 2016 -n Toronto --conf igemwiki-conf.yml",
+    "upload:images": "igemwiki upload-glob -n Toronto --type image --glob \"./images/*.{jpg,png}\""
   },
   "repository": {
     "type": "git",
