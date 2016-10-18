@@ -9,6 +9,7 @@ The 2016 iGEM Toronto team has developed a synthetic biological sensor for detec
 GolS is a member of the MerR family of transcriptional regulators. Members of the MerR family have a helix-turn-helix DNA binding domain on the N-terminus and similar effector binding domains on the C-terminus. There are a variety of inducers for the different MerR-family transcription factors, including oxidative stress, certain dyes, and metals. GolS in particular is sensitive to the gold ion, Au(I), at its C-terminal binding domain. However, it also has a tendency to bind to other metal ions, in particular Cu(I). We have thus developed several mutants which will increase gold-specificity: A113T and P118A.
 
 ![](http://2016.igem.org/wiki/images/2/22/T--Toronto--GolS_Protein.png)
+
 3-D model of GolS protein
 
 ### Paper-Based Biosensor 
