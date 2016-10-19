@@ -44,16 +44,16 @@
 
 ### Special Prizes
 
-[Integrated Human Practices](http://2016.igem.org/Team:Example/Integrated_Practices)
+[Integrated Human Practices](http://2016.igem.org/Team:Toronto/HP-Gold)
 
-[Model](http://2016.igem.org/Team:Example/Model)
+[Model](http://2016.igem.org/Team:Toronto/Model)
 
-[Basic Part](http://2016.igem.org/Team:Example/Basic_Part)
+[Basic Part](http://2016.igem.org/Team:Toronto/Basic_Part)
 
-[Composite Part](http://2016.igem.org/Team:Example/Composite_Part)
+[Composite Part](http://2016.igem.org/Team:Toronto/Composite_Part)
 
-[Part Collection](http://2016.igem.org/Team:Example/Part_Collection)
+[Part Collection](http://2016.igem.org/Team:Toronto/Part_Collection)
 
-[Software](http://2016.igem.org/Team:Example/Software)
+[Software](http://2016.igem.org/Team:Toronto/Software)
 
-[Applied Design](http://2016.igem.org/Team:Example/Design)
+[Applied Design](http://2016.igem.org/Team:Toronto/Design)
