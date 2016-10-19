@@ -1,4 +1,33 @@
-### ★ ALERT!
+# Attributions
+
+### Wet Lab
+
+#### Endang (Susie) Susilawati - *lab Manager*
+Susie provided us with information regarding safety, training, supplies and ordering. She was our rescuer when we needed urgent reagents or needed help with regarding the equipments. Susie's support was crucial for us to perform daily wet lab activities.
+
+#### Christian Euler - *Biozone PhD Student*
+Christian attended our weekly meetings to provide feedback on our progress. He helped us with ordering reagents that are crucial to our projects and provided guidance on protocols.
+
+#### Kayla Nemr - *Biozone PhD Student* 
+Kayla helped us troubleshooting when we needed the most. She played a major role in getting rid off major rode blocks in our project. These include troubleshooting ligations and assays.
+
+#### Naveen Venayak - *Biozone PhD Student*
+Naveen provided guidance in designing sequence primers. He had the talent to understand how the project is progressing from our expressions and did his best to help.
+
+#### Keith Pardee - *Assistant Professor, University of Toronto Pharmacy Department*
+Keith halped us with designing Cell-Free Paper Based assays. As the author of the paper "Paper Based Cell-Free Gene Networks", he shared his protocols and helped troubleshooting.
+
+#### Sean Caffrey - *Executive Director, Biozone*
+Sean helped us secure a laboratory space for our project. He provided guidance on how to succeed in iGEM. 
+
+
+### Dry  Lab
+
+
+### Human Practices
+
+
+<!-- ★ ALERT!
 
 This page is used by the judges to evaluate your team for the [Attributions bronze criterion](http://2016.igem.org/Judging/Medals).
 
@@ -6,13 +35,13 @@ Delete this box in order to be evaluated for this medal. See more information at
 
 Each team must clearly attribute work done by the student team members on this page. The team must distinguish work done by the students from work done by others, including the host labs, advisors, instructors, and individuals not on the team roster.
 
-##### Why is this page needed?
+Why is this page needed?
 
 The Attribution requirement helps the judges know what you did yourselves and what you had help with. We don't mind if you get help with difficult or complex techniques, but you must report what work your team did and what work was done by others.
 
 For example, you might choose to work with an animal model during your project. Working with animals requires getting a license and applying far in advance to conduct certain experiments in many countries. This is difficult to achieve during the course of a summer, but much easier if you can work with a postdoc or PI who has the right licenses.
 
-##### What should this page have?
+What should this page have?
 
 *   General Support
 *   Project support and advice
@@ -25,11 +54,11 @@ For example, you might choose to work with an animal model during your project. 
 *   Human Practices support
 *   Thanks and acknowledgements for all other people involved in helping make a successful iGEM team
 
-##### Can we base our project on a previous one?
+Can we base our project on a previous one?
 
 Yes! You can have a project based on a previous team, or based on someone else's idea, **as long as you state this fact very clearly and give credit for the original project.**
 
-##### Inspiration
+Inspiration
 
 Take a look at what other teams have done:
 
@@ -47,5 +76,5 @@ Tell us if your institution teaches an iGEM or synthetic biology class and when 
 *   Are the syllabus and course materials freely available online?
 *   When did you start your brainstorming?
 *   When did you start in the lab?
-*   When did you start working on your project?
+*   When did you start working on your project?  -->
 
