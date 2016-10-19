@@ -87,9 +87,7 @@ The objective of this paper is to demonstrate that the International Genetically
 
 The paper is organized thusly: Section One is an introduction to iGEM and synthetic biology. Section Two is a review of the literature on the pedagogical benefits of different aspects of iGEM and some literature on iGEM itself. Section Three is an analysis of patterns in the publication of 82 papers based on iGEM projects. Section Four is an analysis of 20 startups affiliated with iGEM teams, either because a former iGEM participant is a co-founder or because the startup is directly based on an iGEM project. Section Five concludes.
 
-The complete document can be found here:
-
-[file.pdf](http://parts.igem.org/wiki/images/4/42/2016_Toronto_Impact.pdf).
+The complete document can be found [here](http://parts.igem.org/wiki/images/4/42/2016_Toronto_Impact.pdf).
 
 Additionally, the appendix can be found [here](http://2016.igem.org/wiki/images/0/04/Impact_appendix.xlsx).
 
