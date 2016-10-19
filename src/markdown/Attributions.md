@@ -6,7 +6,7 @@
 Susie provided us with information regarding safety, training, supplies and ordering. She was our rescuer when we needed urgent reagents or needed help with regarding the equipments. Susie's support was crucial for us to perform daily wet lab activities.
 
 #### Christian Euler - *Biozone PhD Student*
-Christian attended our weekly meetings to provide feedback on our progress. He helped us with ordering reagents that are crucial to our projects and provided guidance on protocols.
+Christian provided feedback on our progress in the weekly meetings. He helped us with ordering reagents that are crucial to our projects and provided guidance on protocols.
 
 #### Kayla Nemr - *Biozone PhD Student* 
 Kayla helped us troubleshooting when we needed the most. She played a major role in getting rid off major rode blocks in our project. These include troubleshooting ligations and assays.
