@@ -31,21 +31,21 @@ Concordia iGEM grew untransformed E. coli cells with no antibiotic, E. coli cell
 
 
 ![alt text](http://2016.igem.org/wiki/images/4/4f/T--Concordia--GolS_0hr.jpg)
-<center>*Figure 4: O hours</center>
+
 
 
 ![alt text](http://2016.igem.org/wiki/images/f/fc/T--Concordia--GolS_2hr.jpg)
-<center>*Figure 5: 2 hours*</center>
+
 
 ![alt text](http://2016.igem.org/wiki/images/5/55/T--Concordia--GolS_14hr.jpg)
-<center>*Figure 6: 14 hours</center>
+
 
 ![alt text](http://2016.igem.org/wiki/images/b/b0/T--Concordia--GolS_17hr.jpg)
-<center>*Figure 7: 17 hours</center>
+
 
 
 ![alt text](http://2016.igem.org/wiki/images/4/40/T--Concordia--GolS_21hr.jpg)
-<center>*Figure 8: 21 hours</center>
+
 
 ### Ontario iGEM (OGEM)
 iGEM Toronto together with Queens iGEM, Waterloo iGEM, McMaster iGEM, uOttawa iGEM and Ryerson iGEM had the opportunity to present our iGEM projects at the 66th annual Canadian Society of Microbiologists conference. This year, we had two meetings as Ontario iGEM (OGEM) to share information/advice, and to dicuss collaborations. We collaborated together, with the help of Ontario Genomics, to work on developing a Synthetic Biology Network with the purpose of connecting synthetic biologists across the province and Canada. 
