@@ -1,33 +1,17 @@
-### ★ ALERT!
 
-This page is used by the judges to evaluate your team for the [improve a previous part or project gold medal criterion](http://2016.igem.org/Judging/Medals).
+### Introduction 
 
-Delete this box in order to be evaluated for this medal. See more information at [Instructions for Pages for awards](http://2016.igem.org/Judging/Pages_for_Awards/Instructions).
+The 2016 iGEM Toronto team has developed a synthetic biological sensor for detecting gold. It will take advantage of the natural transcriptional pathway which is induced by the gold-binding promoter, GolS. A reporter gene attached the promoter produces a colour change which will indicate the presence of gold. Furthermore, the entire construct has been removed from the rest of the cellular machinery, and is in fact paper based. This cell-free mechanism is cheaper and more convenient than traditional biosensing methods.
 
-Tell us about your project, describe what moves you and why this is something important for your team.
 
-##### What should this page contain?
+### GolS
 
-*   A clear and concise description of your project.
-*   A detailed explanation of why your team chose to work on this particular project.
-*   References and sources to document your research.
-*   Use illustrations and other visual resources to explain your project.
+GolS is a member of the MerR family of transcriptional regulators. Members of the MerR family have a helix-turn-helix DNA binding domain on the N-terminus and similar effector binding domains on the C-terminus. There are a variety of inducers for the different MerR-family transcription factors, including oxidative stress, certain dyes, and metals. GolS in particular is sensitive to the gold ion, Au(I), at its C-terminal binding domain. However, it also has a tendency to bind to other metal ions, in particular Cu(I). We have thus developed several mutants which will increase gold-specificity: A113T and P118A.
 
-##### Advice on writing your Project Description
+![](http://2016.igem.org/wiki/images/2/22/T--Toronto--GolS_Protein.png)
 
-We encourage you to put up a lot of information and content on your wiki, but we also encourage you to include summaries as much as possible. If you think of the sections in your project description as the sections in a publication, you should try to be consist, accurate and unambiguous in your achievements.
+3-D model of GolS protein
 
-Judges like to read your wiki and know exactly what you have achieved. This is how you should think about these sections; from the point of view of the judge evaluating you at the end of the year.
+### Paper-Based Biosensor 
 
-##### References
-
-iGEM teams are encouraged to record references you use during the course of your research. They should be posted somewhere on your wiki so that judges and other visitors can see how you thought about your project and what works inspired you.
-
-##### Inspiration
-
-See how other teams have described and presented their projects:
-
-*   [Imperial](http://2014.igem.org/Team:Imperial/Project)
-*   [UC Davis](http://2014.igem.org/Team:UC_Davis/Project_Overview)
-*   [SYSU Software](http://2014.igem.org/Team:SYSU-Software/Overview)
-
+The GolS and reporter gene machinery was moved to a paper-based platform in place of a cellular one. Escheria coli, the cell expressing the protein, was lysed, and the extract was substituted with free amino acids and plasmid constructs which would help it retain protein function while on paper. Furthermore, this paper construct could be freeze-dried then stored for upwards of a year at room temperature. 
