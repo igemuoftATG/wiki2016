@@ -20,12 +20,21 @@ After deciding that an individual kit would not work, our team was very keen on 
 
 Our techno-moral scenario is a creative piece consisting of Diary Entries of an artisanal miner in Kenya who discovers the gold biosensor through conversations overheard by a nearby mining company. 
 
-
 ### Interviews
 
-Our team member Shivali Barot was able to travel to Baltimore, Maryland to meet parasitologist and the first-user of an RDT, Dr. Clive Shiff. This interview provided us with insight about whether the paper-based biosensor is really environmentally-friendly or sustainable. Her experiences are outlined here: 
+Our team member Shivali Barot was able to travel to Baltimore, Maryland to meet parasitologist and the first-user of an RDT, Dr. Clive Shiff. This interview provided us with insight about whether the paper-based biosensor is really environmentally-friendly or sustainable.
 
-We also conducted interviews with esteemed professors closer to home. Dr. Ian Crandall and Dr. Kevin Kain are both assistant professors at U of T with interests in malaria epidemiology, public health, and disease technology.
+On September 14, 2016, we conducted an interview with parasitologist Dr. Ian Crandall. His research focuses on development of antimalarials that can inhibit the transmission of the Plasmodium parasite between red blood cells. 
+
+It is known that those at an elevated risk of contracting malaria are missionaries, miners, and military. In order to protect themselves, these individuals tend to take antimalarials prophylactically. However, this is usually accompanied by harmful side effects leading these individuals to prematurely stop using these crucial drugs. Also, in regions where malaria is endemic illnesses such as meningitis are misdiagnosed as malaria due to some overlapping symptoms. Development of a good diagnostic test would result in the more appropriate use of antimalarial drugs, wasting fewer resources, and leading to less antimalarial resistance.
+
+Dr. Crandall emphasized that the elimination of malaria is very difficult, yet offered a unique solution to the management of the disease. Most adults in regions where malaria is endemic already have parasites in their blood, however they do not get sick because they have immunity to the parasite. This phenomenon makes it very difficult to design malaria interventions in endemic regions. As such, It would be beneficial for artisanal miners to know the level of parasites in their blood and establishing a treatment plan based on directed therapy. To conclude the discussion, Dr. Crandall offered a key insight on coupling our gold biosensor with a malaria RDT: Instead of using a governmental approach, he proposes that we use an incentive model where we offer our biosensor to artisanal miners on the condition that they give us their results from a malaria test. It is this idea we have explored further as our application scenario for our project.
+
+Dr. Kevin Kain: Director, SAR Laboratories, Sandra Rotman Centre for Global Health, UHN-Toronto General Hospital, Director, Tropical Disease Unit at the UHN-Toronto General Hospital, a Professor of Medicine at the University of Toronto, and holds a Canada Research Chair (Tier I) in Molecular Parasitology
+
+Dr. Kevin Kain is a tropical disease expert specializing in host-parasite interactions. He researches  equity in global health and knowledge translation. After hearing about our kit design, a valuable note of feedback was his insight on self-administering RDTs, where he emphasized that people in developing countries generally do not react well to inflicting self-pain (such as pricking their own finger). What is operationally important is to avoid generating bio-hazards by providing end-users the equipment they need for safe protocol such as falcon tubes, adequate waste disposal containers, and gloves.
+
+We also discussed the bottom-up approach to our intervention by using community health clinics to control delivery of the gold biosensor. Dr. Kain talked about the intervention study he led which dealt with administering bed nets in Uganda (cite). When compared to a control group who simply received bed nets, the study group- who received a participatory education video with a cultural component responded significantly better to the intervention. Dr. Kain also offered a helpful insight that we are in need of “a lot of one-dollar things as opposed to one million dollar thing”. Having a grassroots-led assay would offer a pragmatic informational advantage, and by administering it with a community health clinic we could link the problem with an immediate solution.
 
 ### iGEM Impact
 
