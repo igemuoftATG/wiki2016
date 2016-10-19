@@ -20,6 +20,51 @@ After deciding that an individual kit would not work, our team was very keen on 
 
 Our techno-moral scenario is a creative piece consisting of Diary Entries of an artisanal miner in Kenya who discovers the gold biosensor through conversations overheard by a nearby mining company. 
 
+
+> Techno-moral Vignette: 
+
+> Diary Entries from an Artisanal Miner
+
+> Teklezghi Korir is an artisanal miner living in Kenya. Although he is underpaid for the work he performs and the risk it entails he is happy to do so because as an artisanal miner he still manages to support his family of ten. Teklezghi spends long periods of time away from his family at mining sites where he and the other miners use antiquated techniques to search for gold. Unfortunately, Teklezghi is frequently exposed to mosquitos that breed in the small pools of water that are formed due to these outdated practices. As a result, he is at an elevated risk of being exposed to malaria. Fortunately, like most adults living in regions where malaria is common, Teklezghi has developed an immunity to malaria and does not get sick even with the Plasmodium parasite circulating in his blood. Below is a series of first-hand experiences from his life as an artisanal miner:
+ 
+>> October 8, 2016
+
+>> Dear Diary,
+
+>> After a hard week at the mine, I came home to be with my family but I immediately got the sense that something has gone awry at the home. I just found out that my youngest son, Abel, is running a high fever, is vomiting and shivering since earlier during the week. I suspect that my son is sick with malaria- I thought that I had covered his room with bed nets but I am not sure if he removed them during the day.
+
+
+>> October 9, 2016
+
+>> Dear Diary,
+
+>> Today I took my son Abel to the local health center where he was diagnosed with malaria. However, we found out it is too late. The health center was extremely understaffed and had very limited resources. By the time Abel had been diagnosed it was too late to treat him. After the health social worker asked him some questions, he concluded that Abel was exposed to the parasite when he was playing with my razor and accidently cut himself. Sadly, he told me, this kind of ordeal is not out of the ordinary in Kenya where thousands of children die each year from malaria. 
+
+
+>> October 27, 2016
+
+>> Dear Diary,
+
+>> Today I heard a conversation between big mining businessmen about this genetically engineered biosensor paper. I could not hear the complete conversation because I had to make sure they didn’t see me mining near their site. If I am able to get my hands on this paper, I think can help me and my friends detect gold and earn more money. Then I might be able to pay the doctor to help my son Abel get better. 
+
+>> October 30, 2016
+
+>> Dear Diary,
+
+>> Today, I was mining near my usual site and listening to more conversations about this paper. I was scared to death when the big mining businessmen caught me- however they told me not to run away. I was surprised that they did not punish me; they knew that I had been mining near their sites all along and wanted to offer me and my friends a business deal. They explained a bit more about the gold paper biosensor and they told me they can give it to me. However, they told me that they can only give it to me on the condition that I use another paper that tells me whether or not I am infected with malaria. 
+
+>> November 5, 2016
+
+>> Dear Diary,
+
+>> I was a bit skeptical about it but after talking with my wife, I decided to give this agreement and new technology a chance. The worst case scenario would have been that I could know whether or not I have malaria, and whether or not I am digging in the right place. Against my expectations, the gold paper actually made it much easier to figure out where to dig! Right now, I am making more money than I was before in less time. As a result, I able to afford more food for my family and 8 children are able to go to school instead of working at home! I hope to give them a much better life than I had.
+
+> The future was looking much brighter for his children and Teklezghi hoped that if they receive an education that they can avoid the punishment of physical labor that he endures on a regular basis. Just as everything looked to be going in a positive direction, Teklezghi niece, Selam, fell ill. Given his experience with Abel, Teklezghi knows that his family does not have much time to treat Selam. Teklezghi convinces the businessmen to allow his niece into the private health clinic, and they finally agreed after giving him a hard time. Teklezghi is frustrated that they have the final say in matters related to his family’s help, but cannot argue because of the prosperity they have earned him. Although they were able to diagnose Selam with malaria the company decided that they were not obligated to treat her as she is not an employee. Teklezghi sister was thankful that Selam was diagnosed in time but was upset that she had to struggle financially to care for her child. Maybe in the future the government will step in and regulate the use of this valuable resource.
+
+
+
+
+
 ### Interviews
 
 Our team member Shivali Barot was able to travel to Baltimore, Maryland to meet parasitologist and the first-user of an RDT, Dr. Clive Shiff. This interview provided us with insight about whether the paper-based biosensor is really environmentally-friendly or sustainable.
@@ -43,7 +88,10 @@ The objective of this paper is to demonstrate that the International Genetically
 The paper is organized thusly: Section One is an introduction to iGEM and synthetic biology. Section Two is a review of the literature on the pedagogical benefits of different aspects of iGEM and some literature on iGEM itself. Section Three is an analysis of patterns in the publication of 82 papers based on iGEM projects. Section Four is an analysis of 20 startups affiliated with iGEM teams, either because a former iGEM participant is a co-founder or because the startup is directly based on an iGEM project. Section Five concludes.
 
 The complete document can be found here:
-[file.pdf](http://parts.igem.org/wiki/images/4/42/2016_Toronto_Impact.pdf)
+
+[file.pdf](http://parts.igem.org/wiki/images/4/42/2016_Toronto_Impact.pdf).
+
+Additionally, the appendix can be found [here](http://2016.igem.org/wiki/images/0/04/Impact_appendix.xlsx).
 
 
 <!-- ★ ALERT!
