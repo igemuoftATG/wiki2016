@@ -1,4 +1,5 @@
-### ★ ALERT!
+# Design
+<!-- 
 
 This page is used by the judges to evaluate your team for the [design special prize](http://2016.igem.org/Judging/Awards#Special_Prizes).
 
@@ -10,5 +11,5 @@ This is a prize for the team that has developed a synthetic biology product to s
 
 If you are working on art and design as your main project, please join the art and design track. If you are integrating art and design into the core of your main project, please apply for the award by completing this page.
 
-Teams who want to focus on art and design should be in the art and design special track. If you want to have a sub-project in this area, you should compete for this award.
+Teams who want to focus on art and design should be in the art and design special track. If you want to have a sub-project in this area, you should compete for this award.  -->
 
