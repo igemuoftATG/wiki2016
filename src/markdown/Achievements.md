@@ -41,3 +41,19 @@
 3. We have demonstrated that our project can work under [real-world-conditions]( http://2016.igem.org/Team:Toronto/Demonstrate).
 
 4. We have further characterized 2013 York iGEM Gold sensing BioBrick [BBa_K1127008](http://parts.igem.org/Part:BBa_K1127008:Experience) and added our results to the experience page .
+
+### Special Prizes
+
+[Integrated Human Practices](http://2016.igem.org/Team:Example/Integrated_Practices)
+
+[Model](http://2016.igem.org/Team:Example/Model)
+
+[Basic Part](http://2016.igem.org/Team:Example/Basic_Part)
+
+[Composite Part](http://2016.igem.org/Team:Example/Composite_Part)
+
+[Part Collection](http://2016.igem.org/Team:Example/Part_Collection)
+
+[Software](http://2016.igem.org/Team:Example/Software)
+
+[Applied Design](http://2016.igem.org/Team:Example/Design)
