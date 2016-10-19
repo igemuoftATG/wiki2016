@@ -1,17 +1,17 @@
 # Design
 
-### Gols
+### GolS
 
-The wild type gene for the salmonella Gols protein. Gols functions by binding to an operator (pGolb)to repress transcription by bending the DNA. In the presence of gold ions, the repressor undergoes a conformational change and unbends the DNA. This allows for transcription of the operon genes. In salmonella, Gols is used as a response protein to regulate gold resistance protein expression.
+The wild type gene for the salmonella GolS protein. GolS functions by binding to an operator (pGolb)to repress transcription by bending the DNA. In the presence of gold ions, the repressor undergoes a conformational change and unbends the DNA. This allows for transcription of the operon genes. In salmonella, GolS is used as a response protein to regulate gold resistance protein expression.
 
-### Gols P118A
-The Gols repressor protein with a modified binding site to increase selectivity for gold ions and decrease interaction between copper ions.  This modification ensures that products will only be responsive to one element. 
+### GolS P118A
+The GolS repressor protein with a modified binding site to increase selectivity for gold ions and decrease interaction between copper ions.  This modification ensures that products will only be responsive to one element. 
 
 ### mCherry 
 A gene for a cherry coloured protein placed adjacent to pGolb to serve as a reporter for gold presence. 
 
 ### TetO Promoter
-A strong constitutive promoter to express the Gols protein, ensuring saturation of all pGolb sites with Gols so there’s no leak of reporter. 
+A strong constitutive promoter to express the GolS protein, ensuring saturation of all pGolb sites with GolS so there’s no leak of reporter. 
 
 ### LacZ
 Alternative reporter protein used next to pGolb to indicate gold ion presence.

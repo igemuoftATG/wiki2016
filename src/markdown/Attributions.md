@@ -1,8 +1,8 @@
 # Attributions
 
-### Wet Lab
+### Laboratory 
 
-##### Endang (Susie) Susilawati - *lab Manager*
+##### Endang (Susie) Susilawati - *Lab Manager*
 Susie provided us with information regarding safety, training, supplies and ordering. She was our rescuer when we needed urgent reagents or needed help with regarding the equipments. Susie's support was crucial for us to perform daily wet lab activities.
 
 ##### Christian Euler - *Biozone PhD Student*
@@ -21,7 +21,7 @@ Keith halped us with designing Cell-Free Paper Based assays. As the author of th
 Sean helped us secure a laboratory space for our project. He provided guidance on how to succeed in iGEM. 
 
 
-### Dry  Lab
+### Computational
 
 ##### John DiMarco - *Director of Information Technology, University of Toronto*
 John provided us with a high end graphics card for the server used by the Computational Team. Without his generous contribution, it would have been impossible to run the many of the GPU intensive computational tasks.
@@ -29,7 +29,7 @@ John provided us with a high end graphics card for the server used by the Comput
 ##### Guolivia Yuxiu - *Pardee lab Member, University of Toronto Pharmacy Department*
 Livia was tremendously cooperative in the development of the Camera App for colorimetric analysis. During multiple online meetings, she was very insightful when discussing the application’s algorithms and provided us with helpful datasets.
 
-### Human Practices
+### Policy and Practices
 
 
 <!-- ★ ALERT!

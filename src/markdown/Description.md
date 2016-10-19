@@ -10,8 +10,12 @@ GolS is a member of the MerR family of transcriptional regulators. Members of th
 
 ![](http://2016.igem.org/wiki/images/2/22/T--Toronto--GolS_Protein.png)
 
-3-D model of GolS protein
+Predicted model of GolS using Rosetta.
 
 ### Paper-Based Biosensor 
 
 The GolS and reporter gene machinery was moved to a paper-based platform in place of a cellular one. Escheria coli, the cell expressing the protein, was lysed, and the extract was substituted with free amino acids and plasmid constructs which would help it retain protein function while on paper. Furthermore, this paper construct could be freeze-dried then stored for upwards of a year at room temperature. 
+
+### Colorimetric Analysis  
+
+To complement our sensor, we developed a smartphone application capable of quantifying color changes from the sensor. Our application uses advanced colormetric analytic algorithms to control for variations between images. Overall, this application is a convient, user-friendly method for translating color changes into quantitative data.
