@@ -71,6 +71,12 @@ Abraham Ogbaslase
 Enea Koxhioni
 ![](http://2016.igem.org/wiki/images/b/b1/T--Toronto--2016_enea-koxhioni.jpg)
 
+Zian Qin
+![](http://2016.igem.org/wiki/images/a/aa/T--Toronto--2016_zian-qin.jpg)
+
+Yu Lu Ding
+![](http://2016.igem.org/wiki/images/1/1b/T--Toronto--2016_yu-lu-ding.jpg)
+
 Benjamin Couillard
 
 June Seongyoun Lee
@@ -92,9 +98,6 @@ Richard Li
 Sonia Chhay
 
 Nam Nguyen
-
-Zian Qin
-![](http://2016.igem.org/wiki/images/a/aa/T--Toronto--2016_zian-qin.jpg)
 
 Gargi Ghosh
 
@@ -125,9 +128,6 @@ Ali Nawed
 Jacob Rumsey
 
 Julian Mazzitelli
-
-Yu Lu Ding
-![](http://2016.igem.org/wiki/images/1/1b/T--Toronto--2016_yu-lu-ding.jpg)
 
 Pruthvi Desai
 
