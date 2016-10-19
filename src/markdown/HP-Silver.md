@@ -16,7 +16,7 @@ After deciding that an individual kit would not work, our team was very keen on 
 Our techno-moral scenario is a creative piece consisting of Diary Entries of an artisanal miner in Kenya who discovers the gold biosensor through conversations overheard by a nearby mining company. 
 
 
-### Malaria Interviews
+### Interviews
 
 Our team member Shivali Barot was able to travel to Baltimore, Maryland to meet parasitologist and the first-user of an RDT, Dr. Clive Shiff. This interview provided us with insight about whether the paper-based biosensor is really environmentally-friendly or sustainable. Her experiences are outlined here: 
 
