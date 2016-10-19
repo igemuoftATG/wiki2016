@@ -1,4 +1,5 @@
 # Integrated Practices
 
 
-The main goal of our project is to employ affordable sensors that can detect level of gold in soil samples. Our target group was artisanal miners living in developing countries. To address the needs of our group, we investigated use of synthetic gold sensor circuits in order to provide an alternative prospecting tool and understand Malaria epidemiology. We researched soil levels and conditions to understand how current prospecting techniques are performed and means to employ our technology. In order to employ malaria diagnostics,  we conducted series of interviews with experts to understand root cause factors causing Malaria spread. Based on our research and discussions with experts, we optimized our tool to be cell-free paper based design, minimized the risk factors such as highly acidic and expensive reagents, and increased the sensitivity for gold at low concentration with visible output to enable functioning in low resource settings.
+
+
