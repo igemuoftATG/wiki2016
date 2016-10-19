@@ -56,14 +56,10 @@
             "human_practices": "human_practices",
             "silver": "silver",
             "gold": "gold",
-            "integrated_practices": "integrated_practices",
-            "engagement": "engagement"
+            "integrated_practices": "integrated_practices"
         },
         "awards": {
-            "entrepreneurship": "entrepreneurship",
-            "hardware": "hardware",
             "software": "software",
-            "measurement": "measurement",
             "model": "model"
         }
     },
