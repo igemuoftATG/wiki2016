@@ -1,5 +1,3 @@
-# Notebook
-
 [Notebook-w01-fri](http://2016.igem.org/Team:Toronto/Notebook-w01-fri)
 [Notebook-w01-mon](http://2016.igem.org/Team:Toronto/Notebook-w01-mon)
 [Notebook-w01-thu](http://2016.igem.org/Team:Toronto/Notebook-w01-thu)
@@ -81,4 +79,3 @@
 [Notebook-w18-mon](http://2016.igem.org/Team:Toronto/Notebook-w18-mon)
 [Notebook-w18-wed](http://2016.igem.org/Team:Toronto/Notebook-w18-wed)
 [Notebook-w19-mon](http://2016.igem.org/Team:Toronto/Notebook-w19-mon)
-
