@@ -31,6 +31,30 @@ Livia was tremendously cooperative in the development of the Camera App for colo
 
 ### Policy and Practices
 
+##### Dr. Kevin Kain - *Director, SAR Laboratories and Professor of Medicine at the University of Toronto, and holds a Canada Research Chair (Tier I) in Molecular Parasitology*
+We interviewed Dr. Kain about his research in malaria RDTs and community health engagement practices.
+
+##### Dr. Ian Crandall - *Associate Professor, Leslie Dan Faculty of Pharmacy*
+We interviewed Dr. Ian Crandall about the parasitology of malaria and how to use incentive models to maximize the likelihood of human cooperation.
+
+##### Dr. Clive Shiff - *Associate Professor, Johns Hopkins Bloomberg School of Public Health*
+We interviewed Dr. Clive Shiff about malaria RDTs and received feedback on environmental effects and sustainability.
+
+##### Zoë Robaey - *Researcher, Department of Research and Dialogue, Rathenau Institut*
+Our main contact for the Synenergene collaboration, Zoë provided helpful information about how to write application and techno-moral scenarios.
+
+##### Dr. Todd Kuiken - *Senior Program Associate and Co-Director of Biology Collectives, Science and Technology Innovation Program, Wilson Center*
+We hosted a Skype call with Dr. Kuiken who gave us feedback about our Human Practices project design
+
+##### Dr. Peter Pennefather - *Associate Professor, Leslie Dan Faculty of Pharmacy*
+A panelist for our Synthetic Biology Conversation Café event
+
+##### Dr. Bob Logan - *Professor Emeritus, University of Toronto*
+A panelist for our Synthetic Biology Conversation Café event
+
+##### Christian Donohoe - *3rd year MChem Chemistry, iGEM Cardiff*
+A panelist for our Synthetic Biology Conversation Café event
+
 
 <!-- ★ ALERT!
 

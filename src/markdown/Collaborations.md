@@ -17,6 +17,14 @@ After 24h, tubes with BBa_K2048002 device also showed dark blue color. In additi
 
 Concordia iGEM teams results further validated the functionality of our devices BBa_K2048001 and BBa_K2048002. Moreover, they proved the expression levels can be observed at 100uM gold(III) levels in presence of XGal.
 
+![alt text](http://parts.igem.org/wiki/images/b/b0/IGEM_Toronto_Concordia_Controls.jpeg)
+<center>*Figure 1: Concordia Controls*</center>
+
+![alt text](http://parts.igem.org/wiki/images/4/4b/IGEM_Toronto_Concordia_GolS.jpeg)
+<center>*Figure 2: Concordia GolS*</center>
+
+![alt text](http://parts.igem.org/wiki/images/3/3b/IGEM_Toronto_Concordia_P118.jpeg)
+<center>*Figure 1: Concordia P118*</center>
 
 ### Wiki Generator Collaboration
 We helped following teams design their wiki using our wiki generator:
