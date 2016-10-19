@@ -1,12 +1,12 @@
 # Basic Parts Sumbitted to the Registry
 
-| Part               | Description        | Type   |
-| ------------------ |:------------------:| ------:|
-| [BBa_K2048003] (http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048003)  | Short GolS         | Coding |
-| [BBa_K2048004] (http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048004)  | Short GolS (P118)  | Coding |
-| [BBa_K2048005] (http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048005)  | Short mCherry      | Coding |
-| [BBa_K2048006] (http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048006)  | Short GolB LacZ    | Coding |  
-| [BBa_K2048007] (http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048007)  | TetO LacZ          | Coding |   
+| Part                                                                         | Description       | Type   |
+|------------------------------------------------------------------------------|-------------------|--------|
+| [BBa_K2048003](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048003) | Short GolS        | Coding |
+| [BBa_K2048004](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048004) | Short GolS (P118) | Coding |
+| [BBa_K2048005](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048005) | Short mCherry     | Coding |
+| [BBa_K2048006](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048006) | Short GolB LacZ   | Coding |
+| [BBa_K2048007](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048007) | TetO LacZ         | Coding |
 
 <!-- ★ ALERT!
 

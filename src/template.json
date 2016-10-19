@@ -33,6 +33,7 @@
    },
     "navigation": {
         "index" : "home",
+        "achievements": "achievements",
         "_team"  : {
             "team": "team",
             "collaborations": "collaborations"
@@ -52,7 +53,6 @@
             "composite_part": "composite_part",
             "part_collection": "part_collection"
         },
-        "achievements": "achievements",
         "safety": "safety",
         "attributions": "attributions",
         "_human_practices": {
