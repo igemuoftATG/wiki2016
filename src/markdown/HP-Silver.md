@@ -10,6 +10,11 @@ As per Synenergene guidelines, our team focused heavily on designing how the bio
 When forming our preliminary design, we aimed at creating individual kits that would consist of the gold biosensor mounted at the top. Artisanal miners would apply their soil sample and be able to view the concentration of gold ions present in real time using the smartphone app (See Figure 1).
 After deciding that an individual kit would not work, our team was very keen on creating a physical 3D model as part of the implementation of our design.The team decided to call this design the “Lab on Wheels,” and it would include a fully functional lab inside of a large truck capable of driving out to areas with working artisanal miners and taking and developing/processing their samples with the biosensor paper (See Figure 2).
 	After determining that we need to take the design at a broader level, we decided to come up with a model focusing on social infrastructure.Our implementation framework is based on an incentive model whereby both parties are motivated through self-interest to generate lasting change. The process is outlined in detail in our White Paper.
+	
+![](http://2016.igem.org/wiki/images/c/c6/T--Toronto--2016_Silve_HP_Figure1.png)
+
+![](http://2016.igem.org/wiki/images/8/85/T--Toronto--2016_Silver_HP_Figure2.png)
+	
 
 ### Techno-moral Scenario
 
