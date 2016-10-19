@@ -26,6 +26,22 @@ Concordia iGEM teams results further validated the functionality of our devices 
 ![alt text](http://parts.igem.org/wiki/images/3/3b/IGEM_Toronto_Concordia_P118.jpeg)
 <center>*Figure 1: Concordia P118*</center>
 
+
+
+
+
+### Ontario iGEM (OGEM)
+iGEM Toronto together with Queens iGEM, Waterloo iGEM, McMaster iGEM, uOttawa iGEM and Ryerson iGEM had the opportunity to present our iGEM projects at the 66th annual Canadian Society of Microbiologists conference. This year, we met together as Ontario iGEM (OGEM) to share information/advice, and to dicuss collaborations. We collaborated together, with the help of Ontario Genomics, to work on developing a Synthetic Biology Network with the purpose of connecting synthetic biologists across the province and Canada. 
+
+### Cardiff iGEM
+We hosted a panel discussion event at the University of Toronto to discuss the current state of synthetic biology and the implications of using GMO technologies in real world applications. We invited Christian Donohoe from Cardiff iGEM as a panelist to talk about their iGEM project and also to provide an international perspective on synthetic biology. 
+
+### Ryerson iGEM
+This year, Ryerson University started their first iGEM team and we were able to provide advice and support for their team.
+
+
+
+
 ### Wiki Generator Collaboration
 We helped following teams design their wiki using our wiki generator:
 ..*
