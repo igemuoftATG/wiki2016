@@ -1,4 +1,12 @@
-### ★ ALERT!
+# Composite Parts Submitted to the Registry
+
+| Part               | Description        | Type   |
+| ------------------ |:------------------:| ------:|
+| [BBa_K2048001] (http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048001)  | Long  GolS         | Coding |
+| [BBa_K2048002] (http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048002)  | Long  GolS (P118)  | Coding |
+
+<!-- 
+★ ALERT!
 
 This page is used by the judges to evaluate your team for the [Composite Part special prize](http://2016.igem.org/Judging/Awards#Special_Prizes).
 
@@ -8,7 +16,8 @@ A composite part is a functional unit of DNA consisting of two or more basic par
 
 New composite BioBrick devices can be made by combining existing BioBrick Parts (like Inverters, Amplifiers, Smell Generators, Protein Balloon Generators, Senders, Receivers, Actuators, and so on).
 
-#### Note
+Note
 
 This page should list all the composite parts your team has made during your project. You must add all characterization information for your parts on the Registry. You should not put characterization information on this page.
 
+-->
