@@ -2,27 +2,32 @@
 
 ### Wet Lab
 
-#### Endang (Susie) Susilawati - *lab Manager*
+##### Endang (Susie) Susilawati - *lab Manager*
 Susie provided us with information regarding safety, training, supplies and ordering. She was our rescuer when we needed urgent reagents or needed help with regarding the equipments. Susie's support was crucial for us to perform daily wet lab activities.
 
-#### Christian Euler - *Biozone PhD Student*
-Christian attended our weekly meetings to provide feedback on our progress. He helped us with ordering reagents that are crucial to our projects and provided guidance on protocols.
+##### Christian Euler - *Biozone PhD Student*
+Christian provided feedback on our progress in the weekly meetings. He helped us with ordering reagents that are crucial to our projects and provided guidance on protocols.
 
-#### Kayla Nemr - *Biozone PhD Student* 
+##### Kayla Nemr - *Biozone PhD Student* 
 Kayla helped us troubleshooting when we needed the most. She played a major role in getting rid off major rode blocks in our project. These include troubleshooting ligations and assays.
 
-#### Naveen Venayak - *Biozone PhD Student*
+##### Naveen Venayak - *Biozone PhD Student*
 Naveen provided guidance in designing sequence primers. He had the talent to understand how the project is progressing from our expressions and did his best to help.
 
-#### Keith Pardee - *Assistant Professor, University of Toronto Pharmacy Department*
+##### Keith Pardee - *Assistant Professor, University of Toronto Pharmacy Department*
 Keith halped us with designing Cell-Free Paper Based assays. As the author of the paper "Paper Based Cell-Free Gene Networks", he shared his protocols and helped troubleshooting.
 
-#### Sean Caffrey - *Executive Director, Biozone*
+##### Sean Caffrey - *Executive Director, Biozone*
 Sean helped us secure a laboratory space for our project. He provided guidance on how to succeed in iGEM. 
 
 
 ### Dry  Lab
 
+##### John DiMarco - *Director of Information Technology, University of Toronto*
+John provided us with a high end graphics card for the server used by the Computational Team. Without his generous contribution, it would have been impossible to run the many of the GPU intensive computational tasks.
+
+##### Guolivia Yuxiu - *Pardee lab Member, University of Toronto Pharmacy Department*
+Livia was tremendously cooperative in the development of the Camera App for colorimetric analysis. During multiple online meetings, she was very insightful when discussing the application’s algorithms and provided us with helpful datasets.
 
 ### Human Practices
 
