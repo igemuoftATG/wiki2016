@@ -2,8 +2,8 @@
 
 | Part               | Description        | Type   |
 | ------------------ |:------------------:| ------:|
-| [BBa_K2048001] (http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048001)  | Long  GolS         | Coding |
-| [BBa_K2048002] (http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048002)  | Long  GolS (P118)  | Coding |
+| [BBa_K2048001](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048001)  | Long  GolS         | Coding |
+| [BBa_K2048002](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048002)  | Long  GolS (P118)  | Coding |
 
 <!-- 
 ★ ALERT!
