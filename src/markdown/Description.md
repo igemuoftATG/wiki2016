@@ -10,7 +10,7 @@ GolS is a member of the MerR family of transcriptional regulators. Members of th
 
 ![](http://2016.igem.org/wiki/images/2/22/T--Toronto--GolS_Protein.png)
 
-3-D model of GolS protein
+Predicted model of GolS using Rosetta.
 
 ### Paper-Based Biosensor 
 
