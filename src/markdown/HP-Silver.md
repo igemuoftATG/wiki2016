@@ -67,7 +67,7 @@ Our techno-moral scenario is a creative piece consisting of Diary Entries of an 
 
 ### Interviews
 
-Our team member Shivali Barot was able to travel to Baltimore, Maryland to meet parasitologist and the first-user of an RDT, Dr. Clive Shiff. This interview provided us with insight about whether the paper-based biosensor is really environmentally-friendly or sustainable.
+Our team member Shivali Barot was able to travel to Baltimore, Maryland to meet parasitologist and the first-user of an RDT, Dr. Clive Shiff. This interview provided us with insight about whether the paper-based biosensor is really environmentally-friendly or sustainable. Her experiences are outlined [here](http://2016.igem.org/wiki/images/0/04/MeetingNoteswithDr.Shiff_Aug31.docx.pdf).
 
 On September 14, 2016, we conducted an interview with parasitologist Dr. Ian Crandall. His research focuses on development of antimalarials that can inhibit the transmission of the Plasmodium parasite between red blood cells. 
 
