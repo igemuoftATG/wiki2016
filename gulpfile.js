@@ -121,7 +121,7 @@ const headerCreator = (fileType) => {
   headerText += `${opener} #  https://github.com/igemuoftATG/generator-igemwiki  # ${closer}\n`
   headerText += `${opener} ####################################################### ${closer}\n`
   headerText += `\n${opener} repo for this wiki: ${_package.repository.url} ${closer}\n`
-  headerText += `${opener} file built: ${new Date()} ${closer}\n\n`
+  // headerText += `${opener} file built: ${new Date()} ${closer}\n\n`
 
   if (fileType === 'html') headerText += '</html>\n'
 
