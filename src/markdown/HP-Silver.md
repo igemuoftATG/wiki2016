@@ -22,6 +22,15 @@ Our team member Shivali Barot was able to travel to Baltimore, Maryland to meet 
 
 We also conducted interviews with esteemed professors closer to home. Dr. Ian Crandall and Dr. Kevin Kain are both assistant professors at U of T with interests in malaria epidemiology, public health, and disease technology.
 
+### iGEM Impact
+
+The objective of this paper is to demonstrate that the International Genetically Engineered Machine (iGEM) competition in synthetic biology has a large social benefit, in terms of education and tangible impacts, and accordingly that barriers to participation should be lowered in the interest of expanding this social benefit. There is a substantial literature on how various aspects of iGEM- problem-based learning, engineering competitions, and undergraduate research- provide academic benefits and/or signal the acquisition of skills to potential employers. There is also some literature on how participation in iGEM specifically teaches important scientific skills and higher-order thinking, generates a passion for science, and occasionally results in scientific publications. Besides reviewing this literature, this paper will demonstrate that the act of publishing scientific research based on an iGEM project indicates a larger educational benefit than participation alone, since publication is often done by finalist and gold medal-winning teams (issues of causality will also be addressed). It will also demonstrate that the number of scientific publications and businesses resulting from an iGEM project is non-trivial, and will demonstrate how businesses resulting from iGEM teams connect to the greater economy.
+
+The paper is organized thusly: Section One is an introduction to iGEM and synthetic biology. Section Two is a review of the literature on the pedagogical benefits of different aspects of iGEM and some literature on iGEM itself. Section Three is an analysis of patterns in the publication of 82 papers based on iGEM projects. Section Four is an analysis of 20 startups affiliated with iGEM teams, either because a former iGEM participant is a co-founder or because the startup is directly based on an iGEM project. Section Five concludes.
+
+The complete document can be found here:
+[file.pdf](http://parts.igem.org/wiki/images/4/42/2016_Toronto_Impact.pdf)
+
 
 <!-- ★ ALERT!
 
