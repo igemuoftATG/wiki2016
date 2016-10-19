@@ -9,6 +9,10 @@ body {
     background-image: url('http://2015.igem.org/wiki/images/6/67/Toronto_2015_subtle-pattern-10.jpg');
 }
 
+.glyphicon {
+  display: none !important;
+}
+
 .content {
     // Any overflow other than 'visible' triggers a block formatting context.
     // BFCs don't allow descendant floats to escape them, nor do they allow
