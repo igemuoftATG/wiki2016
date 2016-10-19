@@ -3,124 +3,156 @@
 ## May
 ### Week 1
 
-- [Monday, May 16](http://2016.igem.org/Team:Toronto/Notebook-w01-mon)
-- [Tuesday, May 17](http://2016.igem.org/Team:Toronto/Notebook-w01-tue)
-- [Wednesday, May 18](http://2016.igem.org/Team:Toronto/Notebook-w01-wed)
-- [Thursday, May 19](http://2016.igem.org/Team:Toronto/Notebook-w01-thu)
-- [Friday, May 20](http://2016.igem.org/Team:Toronto/Notebook-w01-fri)
+- [Monday May 16](http://2016.igem.org/Team:Toronto/Notebook-w01-mon)
+- [Tuesday May 17](http://2016.igem.org/Team:Toronto/Notebook-w01-tue)
+- [Wednesday May 18](http://2016.igem.org/Team:Toronto/Notebook-w01-wed)
+- [Thursday May 19](http://2016.igem.org/Team:Toronto/Notebook-w01-thu)
+- [Friday May 20](http://2016.igem.org/Team:Toronto/Notebook-w01-fri)
 
 
 ### Week 2
-- [Notebook-w02-fri-1](http://2016.igem.org/Team:Toronto/Notebook-w02-fri-1)
-- [Notebook-w02-fri-2](http://2016.igem.org/Team:Toronto/Notebook-w02-fri-2)
-- [Notebook-w02-thu](http://2016.igem.org/Team:Toronto/Notebook-w02-thu)
-- [Notebook-w02-tue](http://2016.igem.org/Team:Toronto/Notebook-w02-tue)
-- [Notebook-w02-wed](http://2016.igem.org/Team:Toronto/Notebook-w02-wed)
+
+
+- [Tuesday May 24](http://2016.igem.org/Team:Toronto/Notebook-w02-tue)
+- [Wednesday May 25](http://2016.igem.org/Team:Toronto/Notebook-w02-wed)
+- [Thursday May 26](http://2016.igem.org/Team:Toronto/Notebook-w02-thu)
+- [Friday May 27 (Part I)](http://2016.igem.org/Team:Toronto/Notebook-w02-fri-1)
+- [Friday May 27 (Part II)](http://2016.igem.org/Team:Toronto/Notebook-w02-fri-2)
+
+### Week 3
+- [Monday May 30](http://2016.igem.org/Team:Toronto/Notebook-w03-mon)
+- [Tuesday May 31](http://2016.igem.org/Team:Toronto/Notebook-w03-tue)
 
 ## June
-### Week 3
-- [Notebook-w03-fri](http://2016.igem.org/Team:Toronto/Notebook-w03-fri)
-- [Notebook-w03-mon](http://2016.igem.org/Team:Toronto/Notebook-w03-mon)
-- [Notebook-w03-thu](http://2016.igem.org/Team:Toronto/Notebook-w03-thu)
-- [Notebook-w03-tue](http://2016.igem.org/Team:Toronto/Notebook-w03-tue)
-- [Notebook-w03-wed](http://2016.igem.org/Team:Toronto/Notebook-w03-wed)
+
+- [Wednesday June 1](http://2016.igem.org/Team:Toronto/Notebook-w03-wed)
+- [Thursday June 2](http://2016.igem.org/Team:Toronto/Notebook-w03-thu)
+- [Friday June 3](http://2016.igem.org/Team:Toronto/Notebook-w03-fri)
 
 ### Week 4
-- [Notebook-w04-fri](http://2016.igem.org/Team:Toronto/Notebook-w04-fri)
-- [Notebook-w04-mon](http://2016.igem.org/Team:Toronto/Notebook-w04-mon)
-- [Notebook-w04-thu](http://2016.igem.org/Team:Toronto/Notebook-w04-thu)
-- [Notebook-w04-tue](http://2016.igem.org/Team:Toronto/Notebook-w04-tue)
-- [Notebook-w04-wed](http://2016.igem.org/Team:Toronto/Notebook-w04-wed)
+
+- [Monday June 6](http://2016.igem.org/Team:Toronto/Notebook-w04-mon)
+- [Tuesday June 7](http://2016.igem.org/Team:Toronto/Notebook-w04-tue)
+- [Wednesday June 8](http://2016.igem.org/Team:Toronto/Notebook-w04-wed)
+- [Thursday June 9](http://2016.igem.org/Team:Toronto/Notebook-w04-thu)
+- [Friday June 10](http://2016.igem.org/Team:Toronto/Notebook-w04-fri)
+
 
 ### Week 5
-- [Notebook-w05-fri](http://2016.igem.org/Team:Toronto/Notebook-w05-fri)
-- [Notebook-w05-mon](http://2016.igem.org/Team:Toronto/Notebook-w05-mon)
-- [Notebook-w05-thu](http://2016.igem.org/Team:Toronto/Notebook-w05-thu)
-- [Notebook-w05-tue](http://2016.igem.org/Team:Toronto/Notebook-w05-tue)
-- [Notebook-w05-wed](http://2016.igem.org/Team:Toronto/Notebook-w05-wed)
+
+- [Monday June 13](http://2016.igem.org/Team:Toronto/Notebook-w05-mon)
+- [Tuesday June 14](http://2016.igem.org/Team:Toronto/Notebook-w05-tue)
+- [Wednesday June 15](http://2016.igem.org/Team:Toronto/Notebook-w05-wed)
+- [Thursday June 16](http://2016.igem.org/Team:Toronto/Notebook-w05-thu)
+- [Friday June 17](http://2016.igem.org/Team:Toronto/Notebook-w05-fri)
+
 
 ### Week 6
-- [Notebook-w06-fri](http://2016.igem.org/Team:Toronto/Notebook-w06-fri)
-- [Notebook-w06-mon](http://2016.igem.org/Team:Toronto/Notebook-w06-mon)
-- [Notebook-w06-thu](http://2016.igem.org/Team:Toronto/Notebook-w06-thu)
-- [Notebook-w06-tue](http://2016.igem.org/Team:Toronto/Notebook-w06-tue)
-- [Notebook-w06-wed](http://2016.igem.org/Team:Toronto/Notebook-w06-wed)
+
+- [Monday June 20](http://2016.igem.org/Team:Toronto/Notebook-w06-mon)
+- [Tuesday June 21](http://2016.igem.org/Team:Toronto/Notebook-w06-tue)
+- [Wednesday June 22](http://2016.igem.org/Team:Toronto/Notebook-w06-wed)
+- [Thursday June 23](http://2016.igem.org/Team:Toronto/Notebook-w06-thu)
+- [Friday June 24](http://2016.igem.org/Team:Toronto/Notebook-w06-fri)
+
 
 ### Week 7
-- [Notebook-w07-mon](http://2016.igem.org/Team:Toronto/Notebook-w07-mon)
-- [Notebook-w07-thu](http://2016.igem.org/Team:Toronto/Notebook-w07-thu)
-- [Notebook-w07-tue](http://2016.igem.org/Team:Toronto/Notebook-w07-tue)
-- [Notebook-w07-wed](http://2016.igem.org/Team:Toronto/Notebook-w07-wed)
+- [Monday June 27](http://2016.igem.org/Team:Toronto/Notebook-w07-mon)
+- [Tuesday June 28](http://2016.igem.org/Team:Toronto/Notebook-w07-tue)
+- [Wednesday June 29](http://2016.igem.org/Team:Toronto/Notebook-w07-wed)
+- [Thursday June 30](http://2016.igem.org/Team:Toronto/Notebook-w07-thu)
+
 
 ## July
 ### Week 8
-- [Notebook-w08-fri](http://2016.igem.org/Team:Toronto/Notebook-w08-fri)
-- [Notebook-w08-mon](http://2016.igem.org/Team:Toronto/Notebook-w08-mon)
-- [Notebook-w08-thu](http://2016.igem.org/Team:Toronto/Notebook-w08-thu)
-- [Notebook-w08-tue](http://2016.igem.org/Team:Toronto/Notebook-w08-tue)
-- [Notebook-w08-wed](http://2016.igem.org/Team:Toronto/Notebook-w08-wed)
+
+- [Monday July 4](http://2016.igem.org/Team:Toronto/Notebook-w08-mon)
+- [Tuesday July 5](http://2016.igem.org/Team:Toronto/Notebook-w08-tue)
+- [Wednesday July 6](http://2016.igem.org/Team:Toronto/Notebook-w08-wed)
+- [Thursday July 7](http://2016.igem.org/Team:Toronto/Notebook-w08-thu)
+- [Friday July 8](http://2016.igem.org/Team:Toronto/Notebook-w08-fri)
+
 
 ### Week 9
-- [Notebook-w09-fri](http://2016.igem.org/Team:Toronto/Notebook-w09-fri)
-- [Notebook-w09-mon](http://2016.igem.org/Team:Toronto/Notebook-w09-mon)
-- [Notebook-w09-thu](http://2016.igem.org/Team:Toronto/Notebook-w09-thu)
-- [Notebook-w09-tue](http://2016.igem.org/Team:Toronto/Notebook-w09-tue)
-- [Notebook-w09-wed](http://2016.igem.org/Team:Toronto/Notebook-w09-wed)
+
+- [Monday July 11](http://2016.igem.org/Team:Toronto/Notebook-w09-mon)
+- [Tuesday July 12](http://2016.igem.org/Team:Toronto/Notebook-w09-tue)
+- [Wednesday July 13](http://2016.igem.org/Team:Toronto/Notebook-w09-wed)
+- [Thursday July 14](http://2016.igem.org/Team:Toronto/Notebook-w09-thu)
+- [Friday July 15](http://2016.igem.org/Team:Toronto/Notebook-w09-fri)
+
 
 ### Week 10
-- [Notebook-w10-fri](http://2016.igem.org/Team:Toronto/Notebook-w10-fri)
-- [Notebook-w10-mon](http://2016.igem.org/Team:Toronto/Notebook-w10-mon)
-- [Notebook-w10-thu](http://2016.igem.org/Team:Toronto/Notebook-w10-thu)
-- [Notebook-w10-tue](http://2016.igem.org/Team:Toronto/Notebook-w10-tue)
-- [Notebook-w10-wed](http://2016.igem.org/Team:Toronto/Notebook-w10-wed)
+
+- [Monday July 18](http://2016.igem.org/Team:Toronto/Notebook-w10-mon)
+- [Tuesday July 19](http://2016.igem.org/Team:Toronto/Notebook-w10-tue)
+- [Wednesday July 20](http://2016.igem.org/Team:Toronto/Notebook-w10-wed)
+- [Thursday July 21](http://2016.igem.org/Team:Toronto/Notebook-w10-thu)
+- [Friday July 22](http://2016.igem.org/Team:Toronto/Notebook-w10-fri)
+
 
 ### Week 11
-- [Notebook-w11-fri](http://2016.igem.org/Team:Toronto/Notebook-w11-fri)
-- [Notebook-w11-mon](http://2016.igem.org/Team:Toronto/Notebook-w11-mon)
-- [Notebook-w11-sat](http://2016.igem.org/Team:Toronto/Notebook-w11-sat)
-- [Notebook-w11-thu](http://2016.igem.org/Team:Toronto/Notebook-w11-thu)
-- [Notebook-w11-tue](http://2016.igem.org/Team:Toronto/Notebook-w11-tue)
-- [Notebook-w11-wed](http://2016.igem.org/Team:Toronto/Notebook-w11-wed)
+
+- [Monday July 25](http://2016.igem.org/Team:Toronto/Notebook-w11-mon)
+- [Tuesday July 26](http://2016.igem.org/Team:Toronto/Notebook-w11-tue)
+- [Wednesday July 27](http://2016.igem.org/Team:Toronto/Notebook-w11-wed)
+- [Thursday July 28](http://2016.igem.org/Team:Toronto/Notebook-w11-thu)
+- [Friday July 29](http://2016.igem.org/Team:Toronto/Notebook-w11-fri)
+- [Saturday July 30](http://2016.igem.org/Team:Toronto/Notebook-w11-sat)
+
+
 
 ## August
 ### Week 12
-- [Notebook-w12-fri](http://2016.igem.org/Team:Toronto/Notebook-w12-fri)
-- [Notebook-w12-thu](http://2016.igem.org/Team:Toronto/Notebook-w12-thu)
-- [Notebook-w12-tue](http://2016.igem.org/Team:Toronto/Notebook-w12-tue)
-- [Notebook-w12-wed](http://2016.igem.org/Team:Toronto/Notebook-w12-wed)
+
+- [Tuesday August 2](http://2016.igem.org/Team:Toronto/Notebook-w12-tue)
+- [Wednesday August 3](http://2016.igem.org/Team:Toronto/Notebook-w12-wed)
+- [Thursday August 4](http://2016.igem.org/Team:Toronto/Notebook-w12-thu)
+- [Friday August 5](http://2016.igem.org/Team:Toronto/Notebook-w12-fri)
+
 
 ### Week 13
-- [Notebook-w13-fri](http://2016.igem.org/Team:Toronto/Notebook-w13-fri)
-- [Notebook-w13-mon](http://2016.igem.org/Team:Toronto/Notebook-w13-mon)
-- [Notebook-w13-thu](http://2016.igem.org/Team:Toronto/Notebook-w13-thu)
-- [Notebook-w13-wed](http://2016.igem.org/Team:Toronto/Notebook-w13-wed)
+
+- [Monday August 9](http://2016.igem.org/Team:Toronto/Notebook-w13-mon)
+- [Wednesday August 10](http://2016.igem.org/Team:Toronto/Notebook-w13-wed)
+- [Thursday August 11](http://2016.igem.org/Team:Toronto/Notebook-w13-thu)
+- [Friday August 12](http://2016.igem.org/Team:Toronto/Notebook-w13-fri)
+
 
 ### Week 14
-- [Notebook-w14-fri](http://2016.igem.org/Team:Toronto/Notebook-w14-fri)
-- [Notebook-w14-mon](http://2016.igem.org/Team:Toronto/Notebook-w14-mon)
-- [Notebook-w14-thu](http://2016.igem.org/Team:Toronto/Notebook-w14-thu)
-- [Notebook-w14-tue](http://2016.igem.org/Team:Toronto/Notebook-w14-tue)
-- [Notebook-w14-wed](http://2016.igem.org/Team:Toronto/Notebook-w14-wed)
+
+- [Monday AUgust 15](http://2016.igem.org/Team:Toronto/Notebook-w14-mon)
+- [Tuesday August 16](http://2016.igem.org/Team:Toronto/Notebook-w14-tue)
+- [Wednesday August 17](http://2016.igem.org/Team:Toronto/Notebook-w14-wed)
+- [Thursday August 18](http://2016.igem.org/Team:Toronto/Notebook-w14-thu)
+- [Friday August 19](http://2016.igem.org/Team:Toronto/Notebook-w14-fri)
+
 
 ### Week 15
-- [Notebook-w15-fri](http://2016.igem.org/Team:Toronto/Notebook-w15-fri)
-- [Notebook-w15-mon](http://2016.igem.org/Team:Toronto/Notebook-w15-mon)
-- [Notebook-w15-thu](http://2016.igem.org/Team:Toronto/Notebook-w15-thu)
-- [Notebook-w15-tue](http://2016.igem.org/Team:Toronto/Notebook-w15-tue)
-- [Notebook-w15-wed](http://2016.igem.org/Team:Toronto/Notebook-w15-wed)
+
+- [Monday August 22](http://2016.igem.org/Team:Toronto/Notebook-w15-mon)
+- [Tuesday August 23](http://2016.igem.org/Team:Toronto/Notebook-w15-tue)
+- [Wednesday AUgust 24](http://2016.igem.org/Team:Toronto/Notebook-w15-wed)
+- [Thursday August 25](http://2016.igem.org/Team:Toronto/Notebook-w15-thu)
+- [Friday August 26](http://2016.igem.org/Team:Toronto/Notebook-w15-fri)
+
+### Week 16
+
+- [Monday August 29](http://2016.igem.org/Team:Toronto/Notebook-w16-mon)
+- [Tuesday August 30](http://2016.igem.org/Team:Toronto/Notebook-w16-tue)
+- [Wednesday August 31](http://2016.igem.org/Team:Toronto/Notebook-w16-wed)
+
 
 ## September
-### Week 16
-- [Notebook-w16-fri](http://2016.igem.org/Team:Toronto/Notebook-w16-fri)
-- [Notebook-w16-mon](http://2016.igem.org/Team:Toronto/Notebook-w16-mon)
-- [Notebook-w16-tue](http://2016.igem.org/Team:Toronto/Notebook-w16-tue)
-- [Notebook-w16-wed](http://2016.igem.org/Team:Toronto/Notebook-w16-wed)
+
+- [Friday September 2](http://2016.igem.org/Team:Toronto/Notebook-w16-fri)
 
 ### Week 18
-- [Notebook-w18-fri](http://2016.igem.org/Team:Toronto/Notebook-w18-fri)
-- [Notebook-w18-mon](http://2016.igem.org/Team:Toronto/Notebook-w18-mon)
-- [Notebook-w18-wed](http://2016.igem.org/Team:Toronto/Notebook-w18-wed)
+
+- [Monday September 12](http://2016.igem.org/Team:Toronto/Notebook-w18-mon)
+- [Wednesday September 14](http://2016.igem.org/Team:Toronto/Notebook-w18-wed)
+- [Friday September 16](http://2016.igem.org/Team:Toronto/Notebook-w18-fri)
 
 ### Week 19
-- [Notebook-w19-mon](http://2016.igem.org/Team:Toronto/Notebook-w19-mon)
+- [Monday September 19](http://2016.igem.org/Team:Toronto/Notebook-w19-mon)
 
