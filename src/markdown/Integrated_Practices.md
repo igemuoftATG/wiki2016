@@ -1,12 +1,4 @@
-### ★ ALERT!
+# Integrated Practices
 
-This page is used by the judges to evaluate your team for the [Best Integrated Human Practices award](http://2016.igem.org/Judging/Awards#SpecialPrizes).
 
-Delete this box in order to be evaluated for this medal. See more information at [Instructions for Pages for awards](http://2016.igem.org/Judging/Pages_for_Awards/Instructions).
-
-Do you want to be considered for the [Best Integrated Human Practices award](http://2016.igem.org/Judging/Awards#SpecialPrizes)? Help the judges consider your team for this award by describing your work on this page.
-
-Here are two examples of excellent Integrated Human Practices work from 2015:
-
-*   [Bielefeld 2015](http://2015.igem.org/Team:Bielefeld-CeBiTec/Practices)
-*   [Edinburgh 2015](http://2015.igem.org/Team:Edinburgh/Practices)
+The main goal of our project is to employ affordable sensors that can detect level of gold in soil samples. Our target group was artisanal miners living in developing countries. To address the needs of our group, we investigated use of synthetic gold sensor circuits in order to provide an alternative prospecting tool and understand Malaria epidemiology. We researched soil levels and conditions to understand how current prospecting techniques are performed and means to employ our technology. In order to employ malaria diagnostics,  we conducted series of interviews with experts to understand root cause factors causing Malaria spread. Based on our research and discussions with experts, we optimized our tool to be cell-free paper based design, minimized the risk factors such as highly acidic and expensive reagents, and increased the sensitivity for gold at low concentration with visible output to enable functioning in low resource settings.
