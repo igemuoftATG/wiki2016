@@ -94,6 +94,7 @@ Sonia Chhay
 Nam Nguyen
 
 Zian Qin
+![](http://2016.igem.org/wiki/images/a/aa/T--Toronto--2016_zian-qin.jpg)
 
 Gargi Ghosh
 
@@ -126,6 +127,7 @@ Jacob Rumsey
 Julian Mazzitelli
 
 Yu Lu Ding
+![](http://2016.igem.org/wiki/images/1/1b/T--Toronto--2016_yu-lu-ding.jpg)
 
 Pruthvi Desai
 
