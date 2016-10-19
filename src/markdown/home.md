@@ -11,8 +11,10 @@ Here, we propose an environmentally-friendly approach to biosensing through desi
 We thank to all our sponsors who supported our project!
 
 ### Gold Sponsors
+![alt text](http://parts.igem.org/wiki/images/3/3b/2016_Toronto_Logo_BioZone.jpeg)
 ![alt text](http://parts.igem.org/wiki/images/2/2b/2016_Toronto_Logo_IMM.png)
 ![alt text](http://parts.igem.org/wiki/images/b/bb/2016_Toronto_Logo_PharmTox.png)
+![alt text](http://parts.igem.org/wiki/images/f/f2/2016_Toronto_Logo_Benchling.png)
 
 ### Silver Sponsors
 ![alt text](http://parts.igem.org/wiki/images/7/77/2016_Toronto_Logo_CAGEF.png)
@@ -23,3 +25,4 @@ We thank to all our sponsors who supported our project!
 ![alt text](http://parts.igem.org/wiki/images/7/78/2016_Toronto_Logo_GLSE.jpeg)
 ![alt text](http://parts.igem.org/wiki/images/7/7c/2016_Toronto_Logo_UC.jpeg)
 ![alt text](http://parts.igem.org/wiki/images/7/7a/2016_Toronto_Logo_LMP.jpeg)
+![alt text](http://parts.igem.org/wiki/images/7/74/2016_Toronto_Logo_NBL.jpeg)
