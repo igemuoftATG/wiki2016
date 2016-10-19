@@ -2,11 +2,14 @@
 
 ## May
 ### Week 1
-- [Friday](http://2016.igem.org/Team:Toronto/Notebook-w01-fri)
-- [Notebook-w01-mon](http://2016.igem.org/Team:Toronto/Notebook-w01-mon)
-- [Notebook-w01-thu](http://2016.igem.org/Team:Toronto/Notebook-w01-thu)
-- [Notebook-w01-tue](http://2016.igem.org/Team:Toronto/Notebook-w01-tue)
-- [Notebook-w01-wed](http://2016.igem.org/Team:Toronto/Notebook-w01-wed)
+
+- [Monday, May 16](http://2016.igem.org/Team:Toronto/Notebook-w01-mon)
+- [Tuesday, May 17](http://2016.igem.org/Team:Toronto/Notebook-w01-tue)
+- [Wednesday, May 18](http://2016.igem.org/Team:Toronto/Notebook-w01-wed)
+- [Thursday, May 19](http://2016.igem.org/Team:Toronto/Notebook-w01-thu)
+- [Friday, May 20](http://2016.igem.org/Team:Toronto/Notebook-w01-fri)
+
+
 ### Week 2
 - [Notebook-w02-fri-1](http://2016.igem.org/Team:Toronto/Notebook-w02-fri-1)
 - [Notebook-w02-fri-2](http://2016.igem.org/Team:Toronto/Notebook-w02-fri-2)
