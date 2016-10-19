@@ -1,6 +1,6 @@
 # Design
 
-![alt text](http://parts.igem.org/wiki/images/2/28/Igem_2016_Toronto_Design_Mechanism.jpeg)
+![alt text](http://parts.igem.org/wiki/images/2/29/Trial2016Toronto.jpeg)
 <center>*Figure 1: Designed Circuit*</center>
 
 ### GolS
