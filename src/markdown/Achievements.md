@@ -26,13 +26,13 @@
 2. We have [collaborated]( http://2016.igem.org/Team:Toronto/Collaborations) with Concordia to validate construct functionality.
 
 
-3. We have demonstrated in depth [human practices]( http://2016.igem.org/Team:Toronto/Human_Practices) beyond the lab.
+3. We have demonstrated in depth [human practices](http://2016.igem.org/Team:Toronto/HP-Silver) beyond the lab.
 
 
 ### Gold
 
 
-1. We have demonstrated [integrated human practices]( http://2016.igem.org/Team:Toronto/Human_Practices) alluding to our project.
+1. We have demonstrated [integrated human practices](http://2016.igem.org/Team:Toronto/HP-Gold) alluding to our project.
 
 
 2. We have [proven that our cell-free system is functional]( http://2016.igem.org/Team:Toronto/Proof) via an in vitro assay.
