@@ -24,6 +24,13 @@ AGENDA:
 7:15-7:30pm: Break
 7:30-8:00pm: Facilitated Q & A session between the audience and the panelists.
 
+### U of T Biohacks
+
+UofT BioHacks 2016 organized by iGEM Toronto was hosted in University of Toronto Bahen Centre for Information Technology Building on March 12-13, 2016 welcoming undergraduate students, professors and companies from all around Canada. Event featured opening and closing keynote speeches from pioneers in Biology, Computer Science and Engineering disciplines, brainstorming sessions and workshops from the industry and academia followed by overnight biohacking session for addressing real world problems. Registered teams composed of undergraduates with backgrounds in Computer Science, Life Sciences and Engineering showcased their work with 5 to 10 minute presentations to audience. Prizes were awarded to top three contestants selected by the judges who are leaders in their fields.
+
+iGEM Ottawa joined us in this event. UofT BioHack sparked interest among not only undergraduates but also high school students. We are currently helping UofT Schools (a high school based in Toronto) to host their own BioHacks called TO BioHacks.
+
+
 
 <!--  This page is used by the judges to evaluate your team for the [human practices gold medal criterion](http://2016.igem.org/Judging/Medals).
 
