@@ -10,9 +10,9 @@ When forming our preliminary design, we aimed at creating individual kits that w
 After deciding that an individual kit would not work, our team was very keen on creating a physical 3D model as part of the implementation of our design.The team decided to call this design the “Lab on Wheels,” and it would include a fully functional lab inside of a large truck capable of driving out to areas with working artisanal miners and taking and developing/processing their samples with the biosensor paper (See Figure 2).
 	After determining that we need to take the design at a broader level, we decided to come up with a model focusing on social infrastructure.Our implementation framework is based on an incentive model whereby both parties are motivated through self-interest to generate lasting change. The process is outlined in detail in our White Paper.
 
-![](http://2016.igem.org/wiki/images/f/f3/T--Toronto--2016_Silver_HP_Figure1.png)
+![](http://2016.igem.org/wiki/images/Silver_HP_Figure1.png)
 
-![](http://2016.igem.org/wiki/images/f/f3/T--Toronto--2016_Silver_HP_Figure2.png)
+![](http://2016.igem.org/wiki/images/Silver_HP_Figure2.png)
 <!-- ★ ALERT!
 
 This page is used by the judges to evaluate your team for the [human practices silver medal criterion](http://2016.igem.org/Judging/Medals).
