@@ -1,22 +1,22 @@
 # Design
 
-## Gols
+### Gols
 
 The wild type gene for the salmonella Gols protein. Gols functions by binding to an operator (pGolb)to repress transcription by bending the DNA. In the presence of gold ions, the repressor undergoes a conformational change and unbends the DNA. This allows for transcription of the operon genes. In salmonella, Gols is used as a response protein to regulate gold resistance protein expression.
 
-# Gols P118A
+### Gols P118A
 The Gols repressor protein with a modified binding site to increase selectivity for gold ions and decrease interaction between copper ions.  This modification ensures that products will only be responsive to one element. 
 
-# mCherry 
+### mCherry 
 A gene for a cherry coloured protein placed adjacent to pGolb to serve as a reporter for gold presence. 
 
-# TetO Promoter
+### TetO Promoter
 A strong constitutive promoter to express the Gols protein, ensuring saturation of all pGolb sites with Gols so there’s no leak of reporter. 
 
-# LacZ
+### LacZ
 Alternative reporter protein used next to pGolb to indicate gold ion presence.
 
-# Parts Submitted
+### Parts Submitted
 
 <!-- Each team will make new parts during iGEM and will submit them to the Registry of Standard Biological Parts. The iGEM software provides an easy way to present the parts your team has created. The `<groupparts>` tag (see below) will generate a table with all of the parts that your team adds to your team sandbox.
 
