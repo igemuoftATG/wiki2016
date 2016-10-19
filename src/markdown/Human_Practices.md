@@ -1,4 +1,4 @@
-# Human Practices
+# Policy and Practices
 
 Our Policy and Practices team is made up of a group of multidisciplinary individuals that work together on trying to convey the use of our Gold-ion biosensor to the field. We take into consideration ethical, economical, security and social aspects following the implementation of our genetically engineered product. 
 
