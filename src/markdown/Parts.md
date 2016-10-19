@@ -1,5 +1,8 @@
 # Design
 
+![alt text](http://parts.igem.org/wiki/images/2/29/Trial2016Toronto.jpeg)
+<center>*Figure 1: Designed Circuit*</center>
+
 ### GolS
 
 The wild type gene for the salmonella GolS protein. GolS functions by binding to an operator (pGolb)to repress transcription by bending the DNA. In the presence of gold ions, the repressor undergoes a conformational change and unbends the DNA. This allows for transcription of the operon genes. In salmonella, GolS is used as a response protein to regulate gold resistance protein expression.
