@@ -15,13 +15,9 @@ In order to model the mutant variants of GolS, we used PyRosetta’s “pose_fro
 
 ### Modeling Gold Binding
 
-Finally, we created a model for our ligand (gold (III)) within Rosetta, modelled the ability of the GolS homodimer to bind gold(III), and further compared the gold-binding abilities of two mutant versions of GolS, P118A and A113T. First, we downloaded a structural data file (SDF file) containing information of all documented instances of AU3+ functioning as a ligand from RCSB (Berman, Westbrook, Feng, Gililand, Bhat, Weissig, Shindyalov, Bourne, 2000). Following this, we executed Rosetta’s “molfile_to_params” function in order to generate a “params” file for gold(III) containing structural and charge information that allowed for ligand modelling within Rosetta. Due to the fact that gold(III) is a metal ion and is not expected to contain hydrogens, we were able to omit an intermediate cleaning step that is usually required prior to generation of a “params” file.
-Finally, we used Rosetta’s automatic ligand-docking function in order to compare gold(III)-binding potential of GolS, P118A, and A113T. [insert results here once generated]
+Finally, we created a model for our ligand (gold (III)) within Rosetta, modelled the ability of the GolS homodimer to bind gold(III), and further compared the gold-binding abilities of two mutant versions of GolS, P118A and A113T. First, we downloaded a structural data file (SDF file) containing information of all documented instances of AU3+ functioning as a ligand from RCSB (Berman, Westbrook, Feng, Gililand, Bhat, Weissig, Shindyalov, Bourne, 2000). Following this, we executed Rosetta’s “molfile_to_params” function in order to generate a “params” file for gold(III) containing structural and charge information that allowed for ligand modelling within Rosetta. Due to the fact that gold(III) is a metal ion and is not expected to contain hydrogens, we were able to omit an intermediate cleaning step that is usually required prior to generation of a “params” file. Finally, we used Rosetta’s automatic ligand-docking function in order to compare gold(III)-binding potential of GolS, P118A, and A113T. 
 
 ### Modeling the Size of the Metal Ion Binding Pocket
-
-[to be removed if not replaced]
-
 
 ![](http://2016.igem.org/wiki/images/e/ed/T--Toronto--2016_GolS_homodimer.png)
 Rosetta predicted model of GolS dimer 
