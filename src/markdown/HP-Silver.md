@@ -1,6 +1,11 @@
 # Silver
 
-iGEM Toronto was very fortunate to partner with the Rathenau Instituut and received a generous grant of 5000€  on behalf of Synenergene. As part of the collaboration, our team has been consulting with Zoe Robaey and Dr. Todd Kuiken on how to design our project most effectively. One of Synenergene themes for 2016 was “The Fight Against Mosquito-Borne Diseases. iGEM Toronto Human Practices 2016 was interested in the correlation between artisanal and small-scale gold mining and malaria prevalence in developing countries. The Policy & Practices Team wanted to emphasize the diagnostic advantages of both our gold biosensor and malaria rapid-diagnostic testing. Our project focuses on co-opting these two technologies in hopes of an efficient product to accurately detect for gold and malaria.
+### Synenergene
+
+iGEM Toronto was fortunate to partner with the Rathenau Instituut and received a generous grant of 5000€ on behalf of Synenergene. As part of the collaboration, our team has been consulting with Zoe Robaey and Dr. Todd Kuiken on how to design our project most effectively. One of Synenergene themes for 2016 was “The Fight Against Mosquito-Borne Diseases”. 
+
+Our Policy and Practices team was interested in the correlation between artisanal and small-scale gold mining and malaria prevalence in developing countries. Since artisanal miners make up 20-25% of the gold mining industry, The Policy & Practices Team wanted to emphasize the diagnostic advantages of both our gold biosensor and malaria rapid-diagnostic testing. Our project focuses on co-opting these two technologies in hopes of a dually efficient product to accurately detect for gold and malaria.
+
 
 ### Application Scenario
 
@@ -9,7 +14,8 @@ As per Synenergene guidelines, our team focused heavily on designing how the bio
 
 When forming our preliminary design, we aimed at creating individual kits that would consist of the gold biosensor mounted at the top. Artisanal miners would apply their soil sample and be able to view the concentration of gold ions present in real time using the smartphone app (See Figure 1).
 After deciding that an individual kit would not work, our team was very keen on creating a physical 3D model as part of the implementation of our design.The team decided to call this design the “Lab on Wheels,” and it would include a fully functional lab inside of a large truck capable of driving out to areas with working artisanal miners and taking and developing/processing their samples with the biosensor paper (See Figure 2).
-	After determining that we need to take the design at a broader level, we decided to come up with a model focusing on social infrastructure.Our implementation framework is based on an incentive model whereby both parties are motivated through self-interest to generate lasting change. The process is outlined in detail in our White Paper.
+
+After determining that we need to take the design at a broader level, we decided to come up with a model focusing on social infrastructure.Our implementation framework is based on an incentive model whereby both parties are motivated through self-interest to generate lasting change. The process is outlined in detail in our White Paper.
 	
 ![](http://2016.igem.org/wiki/images/c/c6/T--Toronto--2016_Silve_HP_Figure1.png)
 
@@ -65,6 +71,16 @@ Our techno-moral scenario is a creative piece consisting of Diary Entries of an 
 ### Interviews
 
 Our team member Shivali Barot was able to travel to Baltimore, Maryland to meet parasitologist and the first-user of an RDT, Dr. Clive Shiff. This interview provided us with insight about whether the paper-based biosensor is really environmentally-friendly or sustainable. Her experiences are outlined [here](http://2016.igem.org/wiki/images/0/04/MeetingNoteswithDr.Shiff_Aug31.docx.pdf).
+
+
+
+
+
+
+
+
+
+
 
 On September 14, 2016, we conducted an interview with parasitologist Dr. Ian Crandall. His research focuses on development of antimalarials that can inhibit the transmission of the Plasmodium parasite between red blood cells. 
 
