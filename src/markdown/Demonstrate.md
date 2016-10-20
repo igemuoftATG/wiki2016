@@ -1,6 +1,6 @@
 #Demonstrate
 
-The success of the [Long GolS P118A (BBa_K2048002)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048002) and [Long GolS (BBa_K2048001)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048001) constructs working in our assays as well as showing that a single amino acid modification successful made GolS specific to copper, the construct can be used as a biosensor to detect if aqueous gold is in a sample up to 1 \mu M.
+The success of the [Long GolS P118A (BBa_K2048002)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048002) and [Long GolS (BBa_K2048001)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048001) constructs working in our assays as well as showing that a single amino acid modification successful made GolS specific to copper, the construct can be used as a biosensor to detect if aqueous gold is in a sample up to 1\m M.
 
 
 <!-- Here you can describe the results of your project and your future plans.
