@@ -63,15 +63,17 @@ developed last year and [igemwiki-api][igemwiki-api] was created this year,
 which is a CLI tool for uploading pages. Some teams created issues on the GitHub
 repo or emailed us about the tool. Among them,
 
-- UrbanTundra_Edmonton
-- NYU
-- UWash
-- Concordia
-- Cardiff
-- Sydney
+- Urban Tundra Edmonton [issue](https://github.com/igemuoftATG/generator-igemwiki/issues/12)
+- New York University
+- Northeastern University
+- University of Washington
+- Concordia University
+- Cardiff University
+- Univesity of Sydney
 
-Going forward, we will continue to improve these tools so that they are easier
-to use and more teams can benefit.
+We understand that not all these teams have used the tool. Going forward, we
+will continue to improve these tools so that they are easier to use and more
+teams can benefit.
 
 [generator-igemwiki]: https://github.com/igemuoftATG/generator-igemwiki
 [igemwiki-api]: https://github.com/igemuoftATG/igemwiki-api
