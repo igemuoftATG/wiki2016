@@ -10,11 +10,11 @@ Our app utilizes the iPhone camera and advanced colorimetric analysis algorithms
 
 ### User Experience
 
-Upon opening the app for the first time, the user would be asked to create a project, as shown in Appendix IV below, and will be prompted to provide a project name, project location, date, and any additional notes, as shown in Appendix V below. Alternatively, if the app has been used before, the user would be able to select a previously created project. A sample project is shown in Appendix VI.
+Upon opening the app for the first time, the user would be asked to create a project, as shown in Appendix IV.A below, and will be prompted to provide a project name, project location, date, and any additional notes, as shown in Appendix IV.B below. Alternatively, if the app has been used before, the user would be able to select a previously created project. A sample project is shown in Appendix IV.C.
 
-Each project would contain multiple tests, as shown in for each of which the user would be prompted to create the following fields: test name, date, description, number of rows in the well plate, and number of columns in the well plate, as shown in Appendix VII. A list of tests is shown in Appendix VIII. Further, upon starting the test, the user would receive a prompt offering a choice to use an existing photo or take a new photo, after which the chosen photo would be saved and analyzed, as shown in Appendix IX. For expediency, we have advised users to place a control in the first row and the first column of the wells (position 1,1). 
+Each project would contain multiple tests, as shown in for each of which the user would be prompted to create the following fields: test name, date, description, number of rows in the well plate, and number of columns in the well plate. A list of tests is shown in Appendix IV.D. Further, upon starting the test, the user would receive a prompt offering a choice to use an existing photo or take a new photo, after which the chosen photo would be saved and analyzed. For expediency, we have advised users to place a control in the first row and the first column of the wells (position 1,1). 
 
-Following this, our analytical algorithm would be used in combination with the number of row and column inputs in order to display a table of results showing differences in colour between the images of the control and images of the sample. In addition, a table showing estimated concentrations of analyte will be generated for the user, as shown in Appendix X.
+Following this, our analytical algorithm would be used in combination with the number of row and column inputs in order to display a table of results showing differences in colour between the images of the control and images of the sample. In addition, a table showing estimated concentrations of analyte will be generated for the user, as shown in Appendix IV.F.
 
 This data hierarchy has been created in order to support multiple tests for a single large location or project. Thus, the user would be able to store all tests related to the same area in an organized manner.
 
@@ -34,7 +34,7 @@ All data is stored through Cordova-sqlite-Storage (Brody, 2016), which uses its 
 
 The captured image would be drawn on an HTML Canvas, giving us the ability to retrieve and analyze pixel information. However, in order to conduct the first step of the analysis, we were required to split up the image of multiple wells into sections of single wells that could be used for analysis. We generated an algorithm for retrieving image data for every well and comparing it to image data for the control well (row 1, column 1) through implementation of Sobel operators for edge detection (via location of neighbouring pixels with high contrast) (Gonzalez and Woods, 1992). Our method is applied to the control well in order to find the values representing the x-min, x-max, y-min and y-max of the well’s circular circumference, after which the radius of the control well in the image is calculated. As all wells are expected to have the same size, the radius of the control well is used as a reference for all other wells. This method is particularly effective in combination with the paper-based biosensor utilized by our Wet Lab, as the black background of the sensor contrasts sharply with the yellow/purple wells. Our code for the edge detection algorithm can be viewed in Appendix I below.
 
-The next stage of the pixel retrieval involves image cropping using the OpenCV GrabCut algorithm, based on the ratio of rows and columns and reduction of the total image into single-well divisions. To ensure that the process of division is executed correctly, we have advised the user to align the edges of the photo with the edges of the biosensor or well plate. 
+The next stage of the pixel retrieval involves image cropping based on the ratio of rows and columns and reduction of the total image into single-well divisions. To ensure that the process of division is executed correctly, we have advised the user to align the edges of the photo with the edges of the biosensor or well plate. 
 
 The edge detection method will be used once again on the single-well divisions in order to find the value corresponding to the x-min edge. At this point, given the well radius, the exact pixel-level locations of the remaining any of the remaining wells can be determined. In the next step, we submit the colour values determined within each circular well to our analysis algorithm. In order to ensure that no overlap occurred between the black background of the biosensor and the approximated well location, thereby heightening the difference in colour values, we also downsized the circumference of the wells by a small margin. 
 
@@ -53,7 +53,7 @@ For the case of the yellow-to-purple color change visible in our cell-free paper
 
 ### Test Cases and Other Possible Applications
 
-Most of the test cases run by our team were produced graphically in Photoshop, wherein we tried to imitate the yellow-to-purple color change visible in our Wet Lab’s paper-based biosensor for gold detection, as shown in Appendix VI.
+Most of the test cases run by our team were produced graphically in Photoshop, wherein we tried to imitate the yellow-to-purple color change visible in our Wet Lab’s paper-based biosensor for gold detection, as shown in Appendix VI.E.
 
 As explained in the section directly above, this analysis is applicable to any apparatus and any one-to-one color change, given that the regressor has been trained. 
 
@@ -215,31 +215,6 @@ function colorsDiff(data1,data2){ //[r,g,b,a,r,g,b,a,r,...]
 
 ![](http://2016.igem.org/wiki/images/5/50/T--Toronto--2016_appendix4.png)
 
-#### Appendix V: Creating New Project
-
-![](http://2016.igem.org/wiki/images/9/9d/T--Toronto--2016_appendix5.png) 
-
-#### Appendix VI: Sample Project
-
-![](http://2016.igem.org/wiki/images/6/68/T--Toronto--2016_appendix6.png)
-
-#### Appendix VII: Creating New Test
-
-![](http://2016.igem.org/wiki/images/e/e9/T--Toronto--2016_appendix7.png)
-
-#### Appendix VIII: List of Tests
-
-![](http://2016.igem.org/wiki/images/a/ad/T--Toronto--2016_appendix8.png)
-
-#### Appendix IX: Input Image
-
-![](http://2016.igem.org/wiki/images/f/f6/T--Toronto--2016_appendix9.png)
-
-#### Appendix X: Analysis Results
-
-![](http://2016.igem.org/wiki/images/5/58/T--Toronto--2016_appendix10.png)
-
-
 
 ### References
 
@@ -247,9 +222,3 @@ function colorsDiff(data1,data2){ //[r,g,b,a,r,g,b,a,r,...]
 2. Kim, E.D., Chivian, D., and Baker, D., 2004. Protein structure prediction and analysis using the Robetta Server. Nucleic Acids Res. (1)32:W526-531
 3. Chaudhury, S., Lyskov, S., and Gray, J. J. 2010. PyRosetta: a script-based interface for implementing molecular modeling algorithms using Rosetta Bioinformatics. 26(5): 689-691.
 4. Berman, H. M., Westbrook, J., Feng, Z, Gililand, G., Bhat, T.N., Weissig, H., Shindyalov, I.N.,  Bourne, P.E. 2000. The Protein Data Bank. Nucleic Acids Research. 28:235-242.
-
-
-### Appendix
-
-Appendix I: GolS Homodimer
-![](http://2016.igem.org/wiki/images/e/ed/T--Toronto--2016_GolS_homodimer.png)
