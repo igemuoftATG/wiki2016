@@ -11,19 +11,28 @@
 
 ### Discussion
 
-![alt text](http://parts.igem.org/wiki/images/5/56/2016_iGem_Toronto_GolS_3D.png)
-<center>*Figure 2: 3D Absorbance graph for CPRG assay*</center>
+The iGEM Toronto 2016 team was successful at modifying an naturally existing transcription factor called GolS (natively found in *Salmonella enterica*) to contain certain mutations that have been found to cause CueR (a copper-response factor in *Escherichia coli*)to increase sensitivity to gold and significantly decrease it's sensitivity to copper. This modification was due to an amino acid change from proline to alanine at site 118. This successful synthetic change can be found composite BioBricks, [Long GolS P118A (BBa_K2048002)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048002) compared to the unchanged [Long GolS (BBa_K2048001)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048001). For further details on what is contained in the Long GolS P118A BioBrick, see Figure 1.
+
+![alt text](http://parts.igem.org/wiki/images/4/49/GolSP118APlasmid.png)<center>*Figure 1: The content and structure of the [Long GolS P118A (BBa_K2048002)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048002) BioBrick plasmid*</center>
+
+To characterize our plasmids, we compared the expression levels of our [Long GolS P118A (BBa_K2048002)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048002) and [Long GolS (BBa_K2048001)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048001) against [York 2013's GolS (BBa_K1127008)](http://parts.igem.org/Part:BBa_K1127008) and a DH10\beta with varying concentrations of gold and copper. 
+
+Figure 2 shows the 96-well plate that was used in our BioBrick characterization. First comparing our constructs to Yorks, our GolS [(BBa_K2048002)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048001) was able to more strongly express LacZ in both presence of gold and copper compared to York 2013's GolS [(BBa_K1127008)](http://parts.igem.org/Part:BBa_K1127008). This can be determined by how wells G1 through G5 are more red in comparison to wells E1 through E5 for gold and C1 through C5 compared against A1 through C5 for copper. 
+
+![alt text](http://parts.igem.org/wiki/images/6/60/Igem_2016_Gold_Copper_Cell_Assay.jpeg)
+<center>*Figure 2: CPRG assay results after 12 hours of incubation*</center>
+
+When looking at the assay, the degree of how red a well is becomes weaker or more ywllow after 0.5\muM. We expected to see a linear increase correlated to increase in the concentration. However, instead, we observed a sudden decrease in expression levels after 0.5uM (Figure 3). This became more pronounced over time, resulting a Range Detector Circuit. We suspect that there is an inherent edge that represses the expression after a certain threshold. This would produce the circuit shown in Figure 4. We speculated that this effect might be minimum for cell free extracts that contain minimal enzymes.
 
 ![alt text](http://parts.igem.org/wiki/images/1/11/2016_iGem_Toronto_GolS_2D.png)
 <center>*Figure 3: 2D Absorbance graph for CPRG assa*</center>
 
-We expected to see a linear increase correlated to increase in the concentration. However, instead, we observed a sudden decrease in expression levels after 0.5uM. This became more pronounced over time, resulting a Range Detector Circuit.
-
-We suspect that there is an inherent edge that represses the expression after a certain threshold. This would produce the circuit shown in Figure 4. We speculated that this effect might be minimum for cell free extracts that contain minimal enzymes.
-
-
 ![alt text](http://parts.igem.org/wiki/images/6/60/Igem_2016_Circuit_Diagram.png)
 <center>*Figure 4: computational explanation for the CPRG assay*</center>
+
+Secondly, using plate reader results and normalizing OD, we were able to compare our GolS [(BBa_K2048002)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048001) and GolS P118A [(BBa_K2048002)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048002) constructs. Figure 3 shows the GolS construct was more responsive to gold than it was to copper at 0.5\muM of each metal sample. After 5 hours, the ratio between gold expression to copper expression was around 1.14 up to 1.99 at 16 hours. 
+
+For the GolS P118A expression of gold compared to copper, 
 
 
 ### Not so successful
@@ -37,7 +46,7 @@ We suspect that there is an inherent edge that represses the expression after a 
 
 <!--INGORE THIS STUFF, THIS FOR ME TO FINISH LATER WHEN I HAS ALL EXCEL FILES-->
 
-The iGEM Toronto 2016 team was successful at modifying an naturally existing transcription factor, GolS (natively found in *Salmonella enterica*), to contain certain mutations that have been found to cause CueR (a copper-response factor in *Escherichia coli*)to increase sensitivity to gold and significantly decrease it's sensitivity to copper. This modification was due to an amino acid change from proline to alanine at site 118. This successful synthetic change can be found composite BioBricks, [Long GolS P118A (BBa_K2048002)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048002) compared to the unchanged [Long GolS (BBa_K2048001)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048001).
+
 
 <!--These 
 Here you can describe the results of your project and your future plans.
