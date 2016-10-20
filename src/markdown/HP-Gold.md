@@ -1,4 +1,4 @@
-# HP Gold
+# Gold
 
 ### Beyond the lab
 
