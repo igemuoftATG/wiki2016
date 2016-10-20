@@ -1,6 +1,6 @@
 # Collaborations
 
-### iGEM Concordia 
+### iGEM Concordia
 ![alt text](http://parts.igem.org/wiki/images/c/c5/Concordia_iGem_2016_Logo.png)
 
 We collaborated with iGEM Concordia to validate the functionality of our constructs BBa_K2048001 and BBa_K2048002. We have shipped our DNA samples to Concordia iGem on September 2016. Following protocol was executed by iGem Concordia for the preliminary results:
@@ -11,9 +11,9 @@ We collaborated with iGEM Concordia to validate the functionality of our constru
 4. Blue color change was observed.
 
 #### Results:
-After the 2-3 hours, visible blue color was observed in 10uM and 100uM tubes containing E.Coli BBa_K2048001. Faint blue color was also observed in 10uM and 100uM tubes containing E.Coli BBa_K2048002. 
+After the 2-3 hours, visible blue color was observed in 10uM and 100uM tubes containing E.Coli BBa_K2048001. Faint blue color was also observed in 10uM and 100uM tubes containing E.Coli BBa_K2048002.
 
-After 24h, tubes with BBa_K2048002 device also showed dark blue color. In addition, BBa_K2048002 tubes had a darker visible blue compared to BBa_K2048001. 
+After 24h, tubes with BBa_K2048002 device also showed dark blue color. In addition, BBa_K2048002 tubes had a darker visible blue compared to BBa_K2048001.
 
 Concordia iGEM teams results further validated the functionality of our devices BBa_K2048001 and BBa_K2048002. Moreover, they proved the expression levels can be observed at 100uM gold(III) levels in presence of XGal.
 
@@ -48,20 +48,33 @@ Concordia iGEM grew untransformed E. coli cells with no antibiotic, E. coli cell
 
 
 ### Ontario iGEM (OGEM)
-iGEM Toronto together with Queens iGEM, Waterloo iGEM, McMaster iGEM, uOttawa iGEM and Ryerson iGEM had the opportunity to present our iGEM projects at the 66th annual Canadian Society of Microbiologists conference. This year, we had two meetings as Ontario iGEM (OGEM) to share information/advice, and to dicuss collaborations. We collaborated together, with the help of Ontario Genomics, to work on developing a Synthetic Biology Network with the purpose of connecting synthetic biologists across the province and Canada. 
+iGEM Toronto together with Queens iGEM, Waterloo iGEM, McMaster iGEM, uOttawa iGEM and Ryerson iGEM had the opportunity to present our iGEM projects at the 66th annual Canadian Society of Microbiologists conference. This year, we had two meetings as Ontario iGEM (OGEM) to share information/advice, and to dicuss collaborations. We collaborated together, with the help of Ontario Genomics, to work on developing a Synthetic Biology Network with the purpose of connecting synthetic biologists across the province and Canada.
 
 ### Cardiff iGEM
-We hosted a panel discussion event at the University of Toronto to discuss the current state of synthetic biology and the implications of using GMO technologies in real world applications. We invited Christian Donohoe from Cardiff iGEM as a panelist to talk about their iGEM project and also to provide an international perspective. 
+We hosted a panel discussion event at the University of Toronto to discuss the current state of synthetic biology and the implications of using GMO technologies in real world applications. We invited Christian Donohoe from Cardiff iGEM as a panelist to talk about their iGEM project and also to provide an international perspective.
 
 ### Ryerson iGEM
-Our team helped Ryerson University start their own iGEM team this year. We provided advice and support to Ryerson iGEM, as well as integrating their team into Ontario iGEM (OGEM). 
-
-
-
+Our team helped Ryerson University start their own iGEM team this year. We provided advice and support to Ryerson iGEM, as well as integrating their team into Ontario iGEM (OGEM).
 
 ### Wiki Generator Collaboration
-We helped following teams design their wiki using our wiki generator:
-..*
+
+To aid in Wiki development, [generator-igemwiki][generator-igemwiki] was
+developed last year and [igemwiki-api][igemwiki-api] was created this year,
+which is a CLI tool for uploading pages. Some teams created issues on the GitHub
+repo or emailed us about the tool. Among them,
+
+- UrbanTundra_Edmonton
+- NYU
+- UWash
+- Concordia
+- Cardiff
+- Sydney
+
+Going forward, we will continue to improve these tools so that they are easier
+to use and more teams can benefit.
+
+[generator-igemwiki]: https://github.com/igemuoftATG/generator-igemwiki
+[igemwiki-api]: https://github.com/igemuoftATG/igemwiki-api
 
 
 
