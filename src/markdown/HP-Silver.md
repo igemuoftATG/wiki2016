@@ -94,13 +94,7 @@ Dr. Kevin Kain is a tropical disease expert specializing in host-parasite intera
 
 We also discussed the bottom-up approach to our intervention by using community health clinics to control delivery of the gold biosensor. Dr. Kain talked about the intervention study he led which dealt with administering bed nets in Uganda (cite). When compared to a control group who simply received bed nets, the study group- who received a participatory education video with a cultural component responded significantly better to the intervention. Dr. Kain also offered a helpful insight that we are in need of “a lot of one-dollar things as opposed to one million dollar thing”. Having a grassroots-led assay would offer a pragmatic informational advantage, and by administering it with a community health clinic we could link the problem with an immediate solution.
 
-### White Paper
 
-A white paper is an in-depth working document that outlines a problem and offers a solution. Our team chose to write a white paper to showcase our direction of research from our preliminary research to our final edited project. The paper reflects our progress and the direction of where our project was going. The white paper is an iterative process which allowed us to brainstorm ideas and frequently edit them into tangible work that our current project includes. The paper has helped us organize our ideas into categories where team members were able to tackle on the research efficiency with hard deadlines. 
-
-Our working paper is divided into 5 headings: Biosensor Design, Business, Ethics, Geology, and Malaria, all which surround the subject of gold and mining. Not only has our essay helped P&P members organize our researched information but the paper has also enabled other group members to track our work and keep up to date with any changes we encountered in our project planning. The summary of our work hopes to engage readers in our journey towards our completed project and showcase our growth as activate learners and researchers. 
-
-The paper can be found [here](http://2016.igem.org/wiki/images/a/a0/WhitePaper_October192016.pdf).
 
 
 #### Synthetic Biology Conversation Café
