@@ -28,5 +28,5 @@ We used Flux Balance Analysis (FBA) in order to model the metabolic activity of 
 # Appendices
 ## Appendix 1: GolS predicted structure and CueR and GolS metal binding region. 
 ![](http://2016.igem.org/wiki/images/thumb/9/91/Golsxcuer.jpeg/732px-Golsxcuer.jpeg)
-## Appendix 2: 
+## Appendix 2: GolS metal binding region electron density cloud
 ![](http://2016.igem.org/wiki/images/c/cb/Datgols.jpg)
