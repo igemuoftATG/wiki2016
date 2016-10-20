@@ -9,6 +9,15 @@ Additionally, we performed an analysis for resources available to artisanal mine
  In order to employ malaria diagnostics,  we conducted series of interviews with experts to understand root cause factors causing Malaria spread. Based on our research and discussions with experts, we optimized our tool to be cell-free paper based design, minimized the risk factors such as highly acidic and expensive reagents, and increased the sensitivity for gold at low concentration with visible output to enable functioning in low resource settings.
 
 
+### White Paper
+
+A white paper is an in-depth working document that outlines a problem and offers a solution. Our team chose to write a white paper to showcase our direction of research from our preliminary research to our final edited project. The paper reflects our progress and the direction of where our project was going. The white paper is an iterative process which allowed us to brainstorm ideas and frequently edit them into tangible work that our current project includes. The paper has helped us organize our ideas into categories where team members were able to tackle on the research efficiency with hard deadlines. 
+
+Our working paper is divided into 5 headings: Biosensor Design, Business, Ethics, Geology, and Malaria, all which surround the subject of gold and mining. Not only has our essay helped P&P members organize our researched information but the paper has also enabled other group members to track our work and keep up to date with any changes we encountered in our project planning. The summary of our work hopes to engage readers in our journey towards our completed project and showcase our growth as activate learners and researchers. 
+
+The paper can be found [here](http://2016.igem.org/wiki/images/a/a0/WhitePaper_October192016.pdf).
+
+
 ### Discover Synthetic Biology: A Conversation On Modern Science
 
 ![alt text](http://parts.igem.org/wiki/images/b/bc/Igem_Toronto_2016_Panel_Cover.jpeg)
