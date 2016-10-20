@@ -97,7 +97,7 @@ We also discussed the bottom-up approach to our intervention by using community 
 
 
 
-#### Synthetic Biology Conversation Café
+### Synthetic Biology Conversation Café
 
 As part of community outreach, Toronto iGEM Policy & Practices team also hosted a Synthetic Biology Conversation Café in an informal-style but critical conversation café with the theme of "Discover Synthetic Biology: A Conversation on Modern Science". The 2-hour event held at St. Michael's College at the University of Toronto on October 18th, 2016 consisted of two parts: 
 
