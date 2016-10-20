@@ -15,7 +15,7 @@ A white paper is an in-depth working document that outlines a problem and offers
 
 Our working paper is divided into 5 headings: Biosensor Design, Business, Ethics, Geology, and Malaria, all which surround the subject of gold and mining. Not only has our essay helped P&P members organize our researched information but the paper has also enabled other group members to track our work and keep up to date with any changes we encountered in our project planning. The summary of our work hopes to engage readers in our journey towards our completed project and showcase our growth as activate learners and researchers. 
 
-The paper can be found [here](http://2016.igem.org/wiki/images/a/a0/WhitePaper_October192016.pdf).
+The paper can be found [here](http://2016.igem.org/wiki/images/4/49/WhitePaper_October192016FINAL.pdf).
 
 ### Education
 Another part of human practices is having outreach educational programs, which P&P have dedicated members for.
