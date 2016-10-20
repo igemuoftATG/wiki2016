@@ -18,36 +18,4 @@ Our working paper is divided into 5 headings: Biosensor Design, Business, Ethics
 The paper can be found [here](http://2016.igem.org/wiki/images/a/a0/WhitePaper_October192016.pdf).
 
 
-### Discover Synthetic Biology: A Conversation On Modern Science
-
-![alt text](http://parts.igem.org/wiki/images/b/bc/Igem_Toronto_2016_Panel_Cover.jpeg)
-
-Are you interested in student-led innovation and research, and would you like to meet like-minded peers in an informal setting? On October 18th in the Charbonnel Lounge at St. Michael's College, iGEM Toronto hosted a free Panel Discussion about Synthetic Biology and its many applications. We also aimed to get feedback from public on employment of cell free synthetic gene networks.
-
-In our event we engaged participants from all walks of life (professors, students, and accredited professionals in the field) in order to generate a casual yet critical discussion about Synthetic Biology and how to design research initiatives to maximize success. Topics such as feasability, effective implementation, and ethical concerns will be discussed. We encourage anyone with a critical mind to attend!
-
-The panel was moderated by iGEM members and will consist of two parts: 1) A guided conversation with panelists followed by 2) A question-answer period where audience members can add their own input. 
-
-AGENDA:
-6:00-7:15pm: Introduction to our iGEM project and Panel discussion
-7:15-7:30pm: Break
-7:30-8:00pm: Facilitated Q & A session between the audience and the panelists.
-
-### U of T Biohacks
-
-UofT BioHacks 2016 organized by iGEM Toronto was hosted in University of Toronto Bahen Centre for Information Technology Building on March 12-13, 2016 welcoming undergraduate students, professors and companies from all around Canada. Event featured opening and closing keynote speeches from pioneers in Biology, Computer Science and Engineering disciplines, brainstorming sessions and workshops from the industry and academia followed by overnight biohacking session for addressing real world problems. Registered teams composed of undergraduates with backgrounds in Computer Science, Life Sciences and Engineering showcased their work with 5 to 10 minute presentations to audience. Prizes were awarded to top three contestants selected by the judges who are leaders in their fields.
-
-iGEM Ottawa joined us in this event. UofT BioHack sparked interest among not only undergraduates but also high school students. We are currently helping UofT Schools (a high school based in Toronto) to host their own BioHacks called TO BioHacks.
-
-
-
-<!--  This page is used by the judges to evaluate your team for the [human practices gold medal criterion](http://2016.igem.org/Judging/Medals).
-
-Delete this box in order to be evaluated for this medal. See more information at [Instructions for Pages for awards](http://2016.igem.org/Judging/Pages_for_Awards/Instructions).
-
-iGEM teams are unique and leading the field because they "go beyond the lab" to imagine their projects in a social/environmental context, to better understand issues that might influence the design and use of their technologies.
-
-Teams work with students and advisors from the humanities and social sciences to explore topics concerning ethical, legal, social, economic, safety or security issues related to their work. Consideration of these Human Practices is crucial for building safe and sustainable projects that serve the public interest.
-
-For more information, please see the [Human Practices Hub](http://2016.igem.org/Human_Practices). -->
 
