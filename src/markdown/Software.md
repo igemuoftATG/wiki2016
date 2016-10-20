@@ -213,7 +213,7 @@ function colorsDiff(data1,data2){ //[r,g,b,a,r,g,b,a,r,...]
 
 #### Appendix IV: Camera App Images
 
-![](http://2016.igem.org/wiki/images/5/50/T--Toronto--2016_appendix4.png)
+![](http://2016.igem.org/File:T--Toronto--2016_appendix4.png)
 
 
 ### References
