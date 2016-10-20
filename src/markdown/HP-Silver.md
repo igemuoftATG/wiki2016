@@ -62,9 +62,6 @@ Our techno-moral scenario is a creative piece consisting of Diary Entries of an 
 > The future was looking much brighter for his children and Teklezghi hoped that if they receive an education that they can avoid the punishment of physical labor that he endures on a regular basis. Just as everything looked to be going in a positive direction, Teklezghi niece, Selam, fell ill. Given his experience with Abel, Teklezghi knows that his family does not have much time to treat Selam. Teklezghi convinces the businessmen to allow his niece into the private health clinic, and they finally agreed after giving him a hard time. Teklezghi is frustrated that they have the final say in matters related to his family’s help, but cannot argue because of the prosperity they have earned him. Although they were able to diagnose Selam with malaria the company decided that they were not obligated to treat her as she is not an employee. Teklezghi sister was thankful that Selam was diagnosed in time but was upset that she had to struggle financially to care for her child. Maybe in the future the government will step in and regulate the use of this valuable resource.
 
 
-
-
-
 ### Interviews
 
 Our team member Shivali Barot was able to travel to Baltimore, Maryland to meet parasitologist and the first-user of an RDT, Dr. Clive Shiff. This interview provided us with insight about whether the paper-based biosensor is really environmentally-friendly or sustainable. Her experiences are outlined [here](http://2016.igem.org/wiki/images/0/04/MeetingNoteswithDr.Shiff_Aug31.docx.pdf).
@@ -80,6 +77,33 @@ Dr. Kevin Kain: Director, SAR Laboratories, Sandra Rotman Centre for Global Heal
 Dr. Kevin Kain is a tropical disease expert specializing in host-parasite interactions. He researches  equity in global health and knowledge translation. After hearing about our kit design, a valuable note of feedback was his insight on self-administering RDTs, where he emphasized that people in developing countries generally do not react well to inflicting self-pain (such as pricking their own finger). What is operationally important is to avoid generating bio-hazards by providing end-users the equipment they need for safe protocol such as falcon tubes, adequate waste disposal containers, and gloves.
 
 We also discussed the bottom-up approach to our intervention by using community health clinics to control delivery of the gold biosensor. Dr. Kain talked about the intervention study he led which dealt with administering bed nets in Uganda (cite). When compared to a control group who simply received bed nets, the study group- who received a participatory education video with a cultural component responded significantly better to the intervention. Dr. Kain also offered a helpful insight that we are in need of “a lot of one-dollar things as opposed to one million dollar thing”. Having a grassroots-led assay would offer a pragmatic informational advantage, and by administering it with a community health clinic we could link the problem with an immediate solution.
+
+### White Paper
+
+A white paper is an in-depth working document that outlines a problem and offers a solution. Our team chose to write a white paper to showcase our direction of research from our preliminary research to our final edited project. The paper reflects our progress and the direction of where our project was going. The white paper is an iterative process which allowed us to brainstorm ideas and frequently edit them into tangible work that our current project includes. The paper has helped us organize our ideas into categories where team members were able to tackle on the research efficiency with hard deadlines. 
+
+Our working paper is divided into 5 headings: Biosensor Design, Business, Ethics, Geology, and Malaria, all which surround the subject of gold and mining. Not only has our essay helped P&P members organize our researched information but the paper has also enabled other group members to track our work and keep up to date with any changes we encountered in our project planning. The summary of our work hopes to engage readers in our journey towards our completed project and showcase our growth as activate learners and researchers. 
+
+The paper can be found [here](http://2016.igem.org/wiki/images/a/a0/WhitePaper_October192016.pdf).
+
+
+#### Synthetic Biology Conversation Café
+
+As part of community outreach, Toronto iGEM Policy & Practices team also hosted a Synthetic Biology Conversation Café in an informal-style but critical conversation café with the theme of "Discover Synthetic Biology: A Conversation on Modern Science". The 2-hour event held at St. Michael's College at the University of Toronto on October 18th, 2016 consisted of two parts: 
+
+1. A panelist series with: 
+
+	Dr Bob Logan, Professor Emeritus, Department of Physics
+
+	Dr. Peter Pennefather, Associate Professor and founder of gDial Inc.
+
+	iGEM Cardiff representative Christian Donohue
+
+	iGEM Toronto representative Alexander Sullivan
+
+2. A circle discussion with event attendees.
+
+We pitched our Policy and Practices project and discussed ways to improve our design and how to account for issues in feasibility and implementation. We also informed the public about the ethical issues of genetic engineering such as CRISPR and Artificial Photosynthesis, as well as provide them with several applications and real-life thought-provoking questions based on the work iGEM does. This event was successful in giving the science community an opportunity to engage with each other in an informal setting for the promotion of science dialogue and education! 
 
 ### iGEM Impact
 
