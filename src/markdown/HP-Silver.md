@@ -122,6 +122,12 @@ We pitched our Policy and Practices project and discussed ways to improve our de
 
 ![](http://2016.igem.org/wiki/images/1/11/Img4-ppl.png)
 
+![](http://2016.igem.org/wiki/images/b/ba/T--Toronto--2016-img5-presentation.png)
+
+![](http://2016.igem.org/wiki/images/8/85/T--Toronto--2016-img6-alex.jpg)
+
+![](http://2016.igem.org/wiki/images/3/31/T--Toronto--2016-img7-food.jpg)
+
 ### iGEM Impact
 
 The objective of this paper is to demonstrate that the International Genetically Engineered Machine (iGEM) competition in synthetic biology has a large social benefit, in terms of education and tangible impacts, and accordingly that barriers to participation should be lowered in the interest of expanding this social benefit. There is a substantial literature on how various aspects of iGEM- problem-based learning, engineering competitions, and undergraduate research- provide academic benefits and/or signal the acquisition of skills to potential employers. There is also some literature on how participation in iGEM specifically teaches important scientific skills and higher-order thinking, generates a passion for science, and occasionally results in scientific publications. Besides reviewing this literature, this paper will demonstrate that the act of publishing scientific research based on an iGEM project indicates a larger educational benefit than participation alone, since publication is often done by finalist and gold medal-winning teams (issues of causality will also be addressed). It will also demonstrate that the number of scientific publications and businesses resulting from an iGEM project is non-trivial, and will demonstrate how businesses resulting from iGEM teams connect to the greater economy.
