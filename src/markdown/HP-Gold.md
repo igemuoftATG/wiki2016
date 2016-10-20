@@ -17,5 +17,8 @@ Our working paper is divided into 5 headings: Biosensor Design, Business, Ethics
 
 The paper can be found [here](http://2016.igem.org/wiki/images/a/a0/WhitePaper_October192016.pdf).
 
+### Education
+Another part of human practices is having outreach educational programs, which P&P have dedicated members for.
 
+Members initiated a working draft of an undergraduate synthetic biology course syllabus  as part of a long-term iGEM policy project where this course will eventually be introduced into universities, specifically U of T. This project is not yet complete, but our [draft syllabus](http://2016.igem.org/wiki/images/a/ac/T--Toronto--2016_SynBioSyllabus.pdf) is available to view for the public. We welcome any constructive criticism and additions! 
 
