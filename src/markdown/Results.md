@@ -22,17 +22,23 @@ Figure 2 shows the 96-well plate that was used in our BioBrick characterization.
 ![alt text](http://parts.igem.org/wiki/images/6/60/Igem_2016_Gold_Copper_Cell_Assay.jpeg)
 <center>*Figure 2: CPRG assay results after 12 hours of incubation*</center>
 
-When looking at the assay, the degree of how red a well is becomes weaker or more ywllow after 0.5\muM. We expected to see a linear increase correlated to increase in the concentration. However, instead, we observed a sudden decrease in expression levels after 0.5uM (Figure 3). This became more pronounced over time, resulting a Range Detector Circuit. We suspect that there is an inherent edge that represses the expression after a certain threshold. This would produce the circuit shown in Figure 4. We speculated that this effect might be minimum for cell free extracts that contain minimal enzymes.
+Secondly, when looking at the assay, the degree of how red a well is becomes weaker or more ywllow after 0.5\muM. We expected to see a linear increase correlated to increase in the concentration. However, instead, we observed a sudden decrease in expression levels after 0.5uM (Figure 3). This became more pronounced over time, resulting a Range Detector Circuit. We suspect that there is an inherent edge that represses the expression after a certain threshold. This would produce the circuit shown in Figure 4. We speculated that this effect might be minimum for cell free extracts that contain minimal enzymes.
 
 ![alt text](http://parts.igem.org/wiki/images/1/11/2016_iGem_Toronto_GolS_2D.png)
 <center>*Figure 3: 2D Absorbance graph for CPRG assa*</center>
 
 ![alt text](http://parts.igem.org/wiki/images/6/60/Igem_2016_Circuit_Diagram.png)
-<center>*Figure 4: computational explanation for the CPRG assay*</center>
+<center>*Figure 4: Computational explanation for the CPRG assay*</center>
 
-Secondly, using plate reader results and normalizing OD, we were able to compare our GolS [(BBa_K2048002)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048001) and GolS P118A [(BBa_K2048002)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048002) constructs. Figure 3 shows the GolS construct was more responsive to gold than it was to copper at 0.5\muM of each metal sample. After 5 hours, the ratio between gold expression to copper expression was around 1.14 up to 1.99 at 16 hours. 
+Thirdly, using plate reader results and normalizing OD, we were able to compare our GolS [(BBa_K2048002)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048001) and GolS P118A [(BBa_K2048002)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048002) constructs. Figure 5 shows the GolS [(BBa_K2048002)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048001) construct was more responsive to gold than it was to copper at 1\muM of each metal sample. After 5 hours, the ratio between gold expression to copper expression was around 1.14 up to 1.99 at 16 hours. Figure 6 shows the GolS [(BBa_K2048002)](http://parts.igem.org/wiki/index.php?title=Part:BBa_K2048001) construct change in expression in the presence and response to gold over time. 
 
-For the GolS P118A expression of gold compared to copper, 
+![alt text](http://parts.igem.org/wiki/images/thumb/e/e8/GolS_Expression_of_Au%283%29_vs_Cu%282%29.png/800px-GolS_Expression_of_Au%283%29_vs_Cu%282%29.png)
+<center>*Figure 5: A comparison of the OD-noramlized expression of GolS in the presence of and response to Au(3) and Cu(2). This is at 1\muM at 12 hours passed.*</center>
+
+![alt text](http://parts.igem.org/wiki/images/thumb/e/e8/GolS_Expression_of_Au%283%29_vs_Cu%282%29.png/800px-GolS_Expression_of_Au%283%29_vs_Cu%282%29.png)
+<center>*Figure 6: GolS BBa_K2048002 changes in expresison in the presence of and response to Au(3) over 16 hours. The X-axis is the concentration of gold in \muM. The Y-axis is the hours passed since the start of the assay. The Z-axis is the OD-Noramlized.*</center>
+
+Finally, for the GolS P118A expression in response to gold compared to copper, 
 
 
 ### Not so successful
